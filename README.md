@@ -1,8 +1,12 @@
-# Age-NteK
+![code-1486361_1280](https://github.com/Age-NteK/Age-NteK/assets/107895191/0e3cb3a6-d425-4b49-84be-f20b7ff2313f)
+
+# Macarena Castillo Ruiz
 
 # Desarrolladora Full Stack
 
 ## Habilidades Técnicas
+
+
 
 - Desarrollo Full Stack con experiencia en frontend y backend.
 - Experto en JavaScript (ES6+) para crear interfaces intuitivas y creativas.
@@ -95,7 +99,7 @@
 - Desarrollo de Soluciones Innovadoras.
 
 
-# Age-NteK
+# Macarena Castillo Ruiz
 
 ## Tech Skills | Technical Skills
 
