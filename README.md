@@ -43,7 +43,11 @@
 
 ## **Habilidades interpersonales**
 
-En mi enfoque hacia la **excelencia profesional**, me destaco por mis habilidades interpersonales que han demostrado ser una pieza clave para el éxito en proyectos colaborativos. Mi compromiso con la **comunicación clara y efectiva** ha permitido coordinar equipos de manera fluida, mientras que mi **pasión por la tecnología** se refleja en cada esfuerzo que realizo para mejorar la experiencia del usuario. Una sinergia entre la tecnología y la emoción guía la creación de experiencias web impactantes, respaldada por un **compromiso constante con la mejora continua y el aprendizaje**. Mi enfoque innovador se manifiesta en la resolución creativa de problemas y el diseño adaptable, combinado con un dominio sólido de la interfaz de usuario (UI) y experiencia del usuario (UX) para lograr interacciones óptimas. Siendo un colaborador apasionado y adaptable, estoy seguro de que puedo aportar un valor excepcional a cualquier equipo y proyecto.
+En mi búsqueda de la **excelencia profesional**, destaco por mis habilidades interpersonales que han demostrado ser una pieza clave para el éxito en proyectos colaborativos. Mi compromiso con la **comunicación clara y efectiva** ha permitido participar en equipos de manera fluida. Una sinergia entre la tecnología y la emoción guía la creación de experiencias web impactantes, respaldada por un **compromiso constante con la mejora continua y el aprendizaje**. 
+
+Mientras que mi **pasión por la tecnología** se refleja en cada esfuerzo que realizo para mejorar la experiencia del usuario. Esta pasión me ayuda a percibir de la mejor manera lo que el usuario desea y plasmarlo en interfaces de usuario (UI) que funcionen tanto en términos de usabilidad como de diseño.  Mi enfoque innovador se manifiesta en la resolución creativa de problemas y el diseño adaptable, combinado con un dominio sólido de la interfaz de usuario (UI) y la experiencia del usuario (UX) para lograr interacciones óptimas. 
+
+Siendo una colaboradora apasionada y adaptable, estoy seguro de que puedo aportar un **valor excepcional** a cualquier equipo y proyecto. Estoy comprometida y emocionada por enfrentar nuevos desafíos y estoy segura de que, al unir fuerzas, lograremos resultados impactantes y **sobrepasaremos las expectativas**. 
 
 ## **Competencias Técnicas**
 
@@ -115,7 +119,13 @@ Hello! My name is **Macarena Castillo Ruiz**, and I am a passionate Full Stack D
 
 ## **Interpersonal Skills**
 
-In my pursuit of **professional excellence**, I stand out for my **interpersonal skills**, which have proven to be a key driver of success in collaborative projects. My commitment to **clear and effective communication** has facilitated seamless team coordination, while my **passion for technology** is evident in every effort I make to enhance the user experience. A synergy between technology and emotion guides the creation of impactful web experiences, supported by a **constant commitment to continuous improvement and learning**. My innovative approach is reflected in creatively solving problems and adaptable design, paired with a strong mastery of user interface (UI) and user experience (UX) for optimal interactions. As an enthusiastic and adaptable collaborator, I am confident in my ability to bring exceptional value to any team and project.
+## **Professional Excellence and Innovative Collaboration**
+
+In my pursuit of **professional excellence**, I am distinguished by my strong interpersonal skills, which have proven to be a pivotal asset for success in collaborative projects. My unwavering commitment to **clear and effective communication** has facilitated seamless integration within teams. A harmonious blend of technology and emotion guides the creation of impactful web experiences, underpinned by a **steadfast dedication to continuous improvement and learning**.
+
+Simultaneously, my **passion for technology** is palpable in every endeavor I undertake to enhance user experiences. This fervor empowers me to accurately perceive user desires and translate them into user interface (UI) designs that seamlessly merge usability and aesthetics. My innovative approach shines through creative problem-solving and adaptable design, complemented by a firm command of user interface (UI) and user experience (UX) principles to achieve optimal interactions. 
+
+As a passionate and adaptable collaborator, I am confident in my ability to contribute **exceptional value** to any team and project. I am fully committed and excited to embrace new challenges, and I am certain that, through collaborative effort, we will achieve impactful outcomes that **surpass expectations**.
 
 ## **Technical Competencies**
 
