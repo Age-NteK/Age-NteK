@@ -1,198 +1,158 @@
 ![PORTADA](https://github.com/Age-NteK/Age-NteK/assets/107895191/22931d0e-a316-4b63-b338-04625fbf6834)
 
-# Macarena Castillo Ruiz
-# Desarrolladora Full Stack
+# Macarena Castillo Ruiz - Desarrolladora Full Stack
 
-## Habilidades Técnicas
+## **Sobre mí**
 
-- Desarrollo Full Stack con experiencia en frontend y backend.
-- Experto en JavaScript (ES6+) para crear interfaces intuitivas y creativas.
-- Amplio conocimiento en React y Redux para optimizar la experiencia del usuario.
-- Uso experto de Sequelize y PostgreSQL para bases de datos robustas.
-- Dominio de Node.js y Express.js para el desarrollo backend.
-- Experiencia en HTML5, CSS y diseño responsivo para una presentación atractiva.
-- Diseño centrado en el usuario y mejora de la experiencia de usuario (UX).
-- Codificación y diseño creativo para interfaces impactantes y amigables.
-- Innovación en tecnología web y enfoque en soluciones vanguardistas.
+¡Hola! Mi nombre es **Macarena Castillo Ruiz**, y soy una apasionada Desarrolladora Full Stack. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, proyectos destacados y competencias en el ámbito tecnológico. Mi enfoque en la mejora continua, la creatividad y la experiencia del usuario garantizan soluciones innovadoras y de alto rendimiento. Espero que disfrutes navegando por mi perfil y descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
 
-## Experiencia en Proyectos de IT | Innovación Tecnológica
+## **Habilidades Tecnológicas**
 
-- Desarrollo de experiencias web que combinan tecnología y emociones.
-- Creación de soluciones personalizadas y proyectos innovadores.
-- Diseño de interfaces intuitivas que optimizan la interacción del usuario.
-- Implementación de mejoras continuas a través del aprendizaje constante.
-- Pasión por la tecnología y enfoque en la mejora de la experiencia de usuario.
-- Conexión tecnológica y emocional para generar experiencias web impactantes.
-
-## Proyectos Destacados
-
-1. [Aplicación Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git): Experiencia dinámica para explorar personajes y emociones en la popular serie.
-2. [Aplicación PI-COUNTRIES](https://github.com/Age-NteK/PI-COUNTRIES.git): Herramienta completa para explorar y conectar con países de todo el mundo.
-3. [Plataforma de Recetas FOOD](AGREGAR LINK PROYECTO FOOD): Gestión de dietas, recetas y soluciones personalizadas.
-
-## Habilidades Clave
-
-- Desarrollo frontend y backend para soluciones completas.
-- Uso experto de Sequelize, PostgreSQL y bases de datos relacionales.
-- Diseño centrado en el usuario y mejora de la experiencia de usuario (UX).
-- Codificación creativa y diseño atractivo para interfaces impactantes.
-- Innovación en tecnología web y enfoque en soluciones vanguardistas.
-- Resolución de problemas técnicos con agilidad y precisión.
-- Comprensión psicológica de los usuarios para crear soluciones humanizadas.
-- Desarrollo Frontend y Backend. JavaScript (ES6+). React y Redux. Sequelize. PostgreSQL. Node.js y Express.js. HTML5 y CSS. Diseño Responsivo.
-
-## Otras habilidades
-
-- Experiencia en Diseño Centrado en el Usuario. 
-- Soluciones de Desarrollo Personalizadas. 
-- Diseño de Interfaces Intuitivas. 
-- Mejora Continua y Aprendizaje Constante. Tecnología y Emoción. 
-- Experiencias Web Impactantes. Conexión Tecnología-Emoción. 
-- Proyectos Innovadores. Desarrollo Web Creativo. Soluciones Centradas en el Usuario. 
-- Codificación y Diseño. Innovación en Tecnología Web. Diseño de Interfaces Intuitivas. 
-- Desarrollo de Plataformas. 
-- Soluciones Escalables. 
-- Optimización de Rendimiento. 
-- Resolución de Problemas Técnicos. 
-- Diseño Web Responsivo. 
-- Gestión de Proyectos IT. 
-- Programación Orientada a Objetos. 
-- Testeo y Depuración. 
-- Integración de APIs.
-
-## Amplio Espectro de Habilidades y Competencias Tecnológicas
-
-- Desarrollo Ágil. 
-- Arquitectura de Software. 
-- Despliegue y Hosting. 
-- Experiencia de Usuario (UX). 
+- JavaScript (ES6+).
+- Control de Versiones (Git).
+- Desarrollo Frontend y Backend.
+- HTML5 y CSS. Diseño Responsivo.
+- React y Redux.
+- Bootstrap.
 - Diseño UI/UX.
-- Diseño Adaptativo. 
-- Gestión de Versiones (Git). 
-- Metodologías Ágiles. 
-- Scrum. 
-- Kanban. 
-- Pruebas Unitarias. 
-- Seguridad Web. 
-- Patrones de Diseño. Gestión de Datos. 
-- Análisis de Requisitos. 
-- Innovación Tecnológica. 
-- Frameworks Frontend.
-- Desarrollo Backend Eficiente. 
-- Manejo de Bases de Datos. 
-- Soluciones de Alto Rendimiento. 
-- Diseño de Interfaz de Usuario. 
-- Análisis de Datos. 
-- Visualización de Datos. 
-- Desarrollo de Aplicaciones Web. 
-- Colaboración en Equipo. 
-- Comunicación Efectiva. 
-- Pensamiento Analítico. 
-- Solución de Problemas. 
-- Investigación Tecnológica. 
-- Adopción de Nuevas Tecnologías. 
-- Experiencia en Proyectos IT. 
-- Conocimientos Técnicos Avanzados. 
-- Desarrollo de Soluciones Innovadoras.
+- Node.js y Express.js.
+- Sequelize.
+- PostgreSQL.
+- Pruebas Unitarias. Jest.
+- Seguridad Web.
+
+## **Destacados en Experiencia**
+
+- Experta en **JavaScript (ES6+)** para crear interfaces intuitivas y creativas.
+- Experiencia en desarrollo Full Stack con dominio tanto de **frontend como backend**.
+- Habilidad en **HTML5, CSS**, y diseño responsivo para presentaciones atractivas.
+- Conocimiento profundo de **React y Redux** para optimizar la experiencia del usuario.
+- Uso experto de **Sequelize, PostgreSQL**, y bases de datos relacionales.
+- Competente en **Node.js y Express.js** para un desarrollo backend eficiente.
+- Integración fluida de **APIs** para funcionalidad mejorada.
+- Enfoque en **diseño centrado en el usuario** y mejora de la Experiencia de Usuario (**UX**).
+- Implementación de **código creativo** para interfaces impactantes y amigables.
+- Resolución ágil y precisa de **problemas técnicos** para una experiencia fluida.
+- Impulsada por la **innovación** en tecnología web con enfoque en soluciones vanguardistas.
+
+## **Proyectos Destacados**
+
+1. **Aplicación Rick and Morty**: Experiencia dinámica para explorar personajes y emociones en la popular serie.
+2. **Aplicación PI-COUNTRIES**: Herramienta completa para explorar y conectarse con países de todo el mundo.
+3. **[Plataforma de Recetas FOOD](AGREGAR LINK PROYECTO FOOD)**: Gestión de dietas, recetas y soluciones personalizadas.
+
+## **Habilidades Soft**
+
+- **Pasión** por la tecnología y enfoque en **mejorar la experiencia del usuario**.
+- Sinergia entre **Tecnología y Emoción** en la creación de experiencias web impactantes.
+- **Mejora continua** y **aprendizaje constante** para mantenerse al frente.
+- Colaboración efectiva en **equipo** para el éxito holístico del proyecto.
+- Comunicación clara y **efectiva** para una coordinación sin problemas.
+- Resolución **creativa e innovadora de problemas** a través del aprendizaje continuo.
+- **Diseño adaptable** y dominio de **UI/UX** para una interacción óptima del usuario.
+
+## **Competencias Técnicas**
+
+- **Desarrollo Ágil** para asegurar un progreso eficiente y iterativo.
+- Expertise en la creación de una sólida **Arquitectura de Software**.
+- **Despliegue y Hosting** para un acceso fluido de los usuarios.
+- Priorización de la **Experiencia del Usuario (UX)** para un compromiso mejorado.
+- Dominio de **Metodologías Ágiles** para un desarrollo optimizado.
+
+## **Otras Habilidades**
+
+- Competente en **Patrones de Diseño** y manejo efectivo de **Gestión de Datos**.
+- Análisis exhaustivo de **Requisitos** para una ejecución precisa del proyecto.
+- Impulsada por la **Innovación Tecnológica** para mantenerse en la vanguardia.
+- Proficiente en liderar **Frameworks Frontend** para un desarrollo sin problemas.
+- Maestría en técnicas de **Desarrollo Backend Eficiente**.
+- Habilidad en el **Manejo de Bases de Datos** para aplicaciones basadas en datos.
+- Entrega de **Soluciones de Alto Rendimiento** para una experiencia óptima del usuario.
+- Diseño intuitivo de **Interfaz de Usuario** para un compromiso mejorado.
+- Análisis basado en datos y **Visualización de Datos** efectiva.
+- Creación de **Aplicaciones Web** que satisfacen las necesidades y expectativas del usuario.
+- **Pensamiento Analítico** agudo y **Resolución Innovadora de Problemas**.
+- **Investigación Tecnológica** continua para mantenerse actualizado.
+- **Adopción de Nuevas Tecnologías** de manera rápida para mantenerse competitivo.
+- Experiencia extensa en **Proyectos de Tecnología de la Información (TI)** para entregas exitosas.
+- Aprovechamiento de **Conocimientos Técnicos Avanzados** para soluciones sólidas.
+- Creación de **Soluciones Innovadoras** que traspasan los límites.
 
 
-# Macarena Castillo Ruiz
+# Macarena Castillo Ruiz - Full Stack Developer
 
-## Tech Skills | Technical Skills
+## **About**
 
-- Full Stack development with experience in frontend and backend.
-- Expert in JavaScript (ES6+) for creating intuitive and creative interfaces.
-- Extensive knowledge in React and Redux to optimize user experience.
-- Expert use of Sequelize and PostgreSQL for robust databases.
-- Mastery of Node.js and Express.js for backend development.
-- Proficiency in HTML5, CSS, and responsive design for an attractive presentation.
-- User-centered design and enhancement of user experience (UX).
-- Creative coding and design for impactful and user-friendly interfaces.
-- Innovation in web technology with a focus on cutting-edge solutions.
+Hello! My name is **Macarena Castillo Ruiz**, and I am a passionate Full Stack Developer. I invite you to explore my profile, where you will find a detailed overview of my technical skills, noteworthy projects, and technological competencies. My emphasis on continuous improvement, creativity, and user experience ensures innovative and high-performance solutions. I hope you enjoy browsing through my profile and discovering how we can create something exceptional together. **Looking forward to the opportunity of working with you!**
 
-## IT Projects Experience | Innovación Tecnológica
+## **Tech Skills**
 
-- Development of web experiences that combine technology and emotions.
-- Creation of personalized solutions and innovative projects.
-- Design of intuitive interfaces optimizing user interaction.
-- Implementation of ongoing improvements through continuous learning.
-- Passion for technology and a focus on enhancing user experience.
-- Technological and emotional connection for generating impactful web experiences.
-
-## Featured Projects
-
-1. [Rick and Morty Application](https://github.com/Age-NteK/RickAndMorty.git): Dynamic experience for exploring characters and emotions in the popular series.
-2. [PI-COUNTRIES Application](https://github.com/Age-NteK/PI-COUNTRIES.git): Comprehensive tool for exploring and connecting with countries worldwide.
-3. [FOOD Recipes Platform](AGREGAR LINK PROYECTO FOOD): Management of diets, recipes, and customized solutions.
-
-## Key Skills
-
-- Frontend and backend development for comprehensive solutions.
-- Expert use of Sequelize, PostgreSQL, and relational databases.
-- User-centered design and enhancement of user experience (UX).
-- Creative coding and attractive design for impactful interfaces.
-- Innovation in web technology and focus on cutting-edge solutions.
-- Swift and precise troubleshooting of technical issues.
-- Psychological understanding of users to create humanized solutions.
-- Frontend and Backend Development. JavaScript (ES6+). React and Redux. Sequelize. PostgreSQL. Node.js and Express.js. HTML5 and CSS. Responsive Design.
-
-## Other Skills
-
-- User-Centered Design Experience.
-- Custom Development Solutions.
-- Intuitive Interface Design.
-- Continuous Improvement and Ongoing Learning. 
-- Technology and Emotion.
-- Impactful Web Experiences.
-- Technology-Emotion Connection.
-- Innovative Projects. 
-- Creative Web Development. 
-- User-Centric Solutions.
-- Coding and Design. 
-- Innovation in Web Technology. 
-- Intuitive Interface Design. 
-- Platform Development.
-- Scalable Solutions.
-- Performance Optimization. 
-- Technical Problem Solving. 
-- Responsive Web Design. 
-- IT Project Management.
-- Object-Oriented Programming.
-- Testing and Debugging. 
-- API Integration.
-
-## Broad Spectrum of Technological Skills and Competencies
-
-- Agile Development.
-- Software Architecture.
-- Deployment and Hosting.
-- User Experience (UX).
-- UI/UX Design.
-- Adaptive Design.
+- JavaScript (ES6+).
 - Version Control (Git).
-- Agile Methodologies.
-- Scrum.
-- Kanban.
-- Unit Testing.
+- Frontend and Backend Development.
+- HTML5 and CSS. Responsive Design.
+- React and Redux.
+- Bootstrap.
+- UI/UX Design.
+- Node.js and Express.js.
+- Sequelize.
+- PostgreSQL.
+- Unit Testing. Jest.
 - Web Security.
-- Design Patterns.
-- Data Management.
-- Requirements Analysis.
-- Technological Innovation.
-- Frontend Frameworks.
-- Efficient Backend Development.
-- Database Management.
-- High-Performance Solutions.
-- User Interface Design.
-- Data Analysis.
-- Data Visualization.
-- Web Application Development.
-- Team Collaboration.
-- Effective Communication.
-- Analytical Thinking.
-- Problem Solving.
-- Technological Research.
-- Adoption of New Technologies.
-- IT Project Experience.
-- Advanced Technical Knowledge.
-- Innovative Solution Development.
+
+## **Experience Highlights**
+
+- Proficient in **JavaScript (ES6+)** for creating intuitive and creative interfaces.
+- Full Stack development experience with expertise in both **frontend and backend**.
+- Proficient in **HTML5, CSS**, and responsive design for an **attractive presentation**.
+- Extensive knowledge of **React and Redux** for optimizing user experience.
+- Expert use of **Sequelize, PostgreSQL**, and relational databases.
+- Proficient in **Node.js and Express.js** for efficient backend development.
+- Seamless **API integration** for enhanced functionality.
+- Focused on **user-centered design** and elevating User Experience (**UX**).
+- Implementing **creative coding** for impactful and user-friendly interfaces.
+- Agile and precise **technical issue resolution** for seamless user experience.
+- Driven by **innovation** in web technology with a focus on cutting-edge solutions.
+
+## **Noteworthy Projects**
+
+1. **Rick and Morty Application**: A dynamic experience to explore characters and emotions in the popular series.
+2. **PI-COUNTRIES Application**: A comprehensive tool to explore and connect with countries worldwide.
+3. **[FOOD Recipe Platform](ADD FOOD PROJECT LINK)**: Empowering users with diet management, recipes, and personalized solutions.
+
+## **Soft Skills**
+
+- **Passion** for technology and a relentless focus on **enhancing user experience**.
+- Synergy of **Technology and Emotion** in creating impactful web experiences.
+- **Continuous Improvement** and **Constant Learning** to stay ahead.
+- Effective **Team Collaboration** for holistic project success.
+- Clear and **Effective Communication** for seamless coordination.
+- Creative and **Innovative Problem Solving** through continuous learning.
+- **Adaptive Design** and **UI/UX Mastery** for optimal user interaction.
+
+## **Technical Competencies**
+
+- **Agile Development** to ensure efficient and iterative progress.
+- Expertise in crafting robust **Software Architecture**.
+- **Deployment and Hosting** for seamless user access.
+- Prioritizing **User Experience (UX)** for enhanced engagement.
+- Mastery of **Agile Methodologies** for streamlined development.
+
+## **Additional Abilities**
+
+- Proficient in **Design Patterns** and effective **Data Management**.
+- In-depth **Requirement Analysis** for accurate project execution.
+- Driven by **Technological Innovation** to stay at the forefront.
+- Proficient in leading **Frontend Frameworks** for seamless development.
+- Mastery of **Efficient Backend Development** techniques.
+- Skillful **Database Management** for data-driven applications.
+- Delivering **High-Performance Solutions** for optimal user experience.
+- Intuitive **User Interface Design** for enhanced engagement.
+- Data-driven **Analysis** and effective **Data Visualization**.
+- Crafting **Web Applications** that meet user needs and expectations.
+- Sharp **Analytical Thinking** and innovative **Problem Solving**.
+- Continuous **Technological Research** to stay updated.
+- Swift **Adoption of New Technologies** to remain competitive.
+- Extensive **IT Project Experience** for successful delivery.
+- Leveraging **Advanced Technical Knowledge** for robust solutions.
+- Crafting **Innovative Solutions** that push boundaries.
