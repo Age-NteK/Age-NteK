@@ -33,7 +33,7 @@ En mi búsqueda de la **excelencia profesional**, destaco por mis habilidades in
 
 Mientras que mi **pasión por la tecnología** se refleja en cada esfuerzo que realizo para mejorar la experiencia del usuario. Mis habilidades interpersonales me ayudan también a percibir de la mejor manera lo que el usuario desea y plasmarlo en interfaces de usuario (UI) que funcionen tanto en términos de usabilidad como de diseño.  Mi enfoque innovador se manifiesta en la resolución creativa de problemas y el diseño adaptable, combinado con un dominio sólido de la interfaz de usuario (UI) y la experiencia del usuario (UX) para lograr interacciones óptimas. 
 
-Siendo una colaboradora apasionada y adaptable, estoy segura de que puedo aportar un **valor excepcional** a cualquier equipo y proyecto. Estoy comprometida y emocionada por enfrentar nuevos desafíos y estoy segura de que, al unir fuerzas, lograremos resultados impactantes y **sobrepasaremos las expectativas**. 
+Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo aportar un **valor excepcional** a cualquier equipo y proyecto. Estoy comprometida y emocionada por enfrentar nuevos desafíos y estoy segura de que, al unir fuerzas, lograremos resultados impactantes y **sobrepasaremos las expectativas**. 
 
 ## **Experiencia**
 
@@ -109,7 +109,7 @@ Meanwhile, my **passion for technology** is palpable in every endeavor I underta
 
 My innovative approach shines through creative problem-solving and adaptable design, complemented by a firm command of user interface (UI) and user experience (UX) principles to achieve optimal interactions. 
 
-As a passionate and adaptable collaborator, I am confident that I can contribute **exceptional value** to any team and project. I am fully committed and excited to embrace new challenges, and I am certain that, through collaborative effort, we will achieve impactful outcomes that **exceed expectations**.
+As a **passionate and adaptable collaborator**, I am confident that I can contribute **exceptional value** to any team and project. I am fully committed and excited to embrace new challenges, and I am certain that, through collaborative effort, we will achieve impactful outcomes that **exceed expectations**.
 
 ## **Experience**
 
