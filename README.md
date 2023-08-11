@@ -41,38 +41,29 @@
 2. **Aplicación PI-COUNTRIES**: Herramienta completa para explorar y conectarse con países de todo el mundo.
 3. **[Plataforma de Recetas FOOD](AGREGAR LINK PROYECTO FOOD)**: Gestión de dietas, recetas y soluciones personalizadas.
 
-## **Habilidades Soft**
+## **Habilidades interpersonales**
 
-- **Pasión** por la tecnología y enfoque en **mejorar la experiencia del usuario**.
-- Sinergia entre **Tecnología y Emoción** en la creación de experiencias web impactantes.
-- **Mejora continua** y **aprendizaje constante** para mantenerse al frente.
-- Colaboración efectiva en **equipo** para el éxito holístico del proyecto.
-- Comunicación clara y **efectiva** para una coordinación sin problemas.
-- Resolución **creativa e innovadora de problemas** a través del aprendizaje continuo.
-- **Diseño adaptable** y dominio de **UI/UX** para una interacción óptima del usuario.
+En mi enfoque hacia la **excelencia profesional**, me destaco por mis habilidades interpersonales que han demostrado ser una pieza clave para el éxito en proyectos colaborativos. Mi compromiso con la **comunicación clara y efectiva** ha permitido coordinar equipos de manera fluida, mientras que mi **pasión por la tecnología** se refleja en cada esfuerzo que realizo para mejorar la experiencia del usuario. Una sinergia entre la tecnología y la emoción guía la creación de experiencias web impactantes, respaldada por un **compromiso constante con la mejora continua y el aprendizaje**. Mi enfoque innovador se manifiesta en la resolución creativa de problemas y el diseño adaptable, combinado con un dominio sólido de la interfaz de usuario (UI) y experiencia del usuario (UX) para lograr interacciones óptimas. Siendo un colaborador apasionado y adaptable, estoy seguro de que puedo aportar un valor excepcional a cualquier equipo y proyecto.
 
 ## **Competencias Técnicas**
 
-- **Desarrollo Ágil** para asegurar un progreso eficiente y iterativo.
+- **Investigación Tecnológica** continua para mantenerse actualizado.
+- Análisis exhaustivo de **Requisitos** para una ejecución precisa del proyecto.
+- Creación de **Aplicaciones Web** que satisfacen las necesidades y expectativas del usuario.
+- Competente en **Patrones de Diseño** y manejo efectivo de **Gestión de Datos**.
+- Entrega de **Soluciones de Alto Rendimiento** para una experiencia óptima del usuario.
 - Expertise en la creación de una sólida **Arquitectura de Software**.
+- Impulsada por la **Innovación Tecnológica** para mantenerse en la vanguardia.
+- **Desarrollo Ágil** para asegurar un progreso eficiente y iterativo.
 - **Despliegue y Hosting** para un acceso fluido de los usuarios.
 - Priorización de la **Experiencia del Usuario (UX)** para un compromiso mejorado.
 - Dominio de **Metodologías Ágiles** para un desarrollo optimizado.
-
-## **Otras Habilidades**
-
-- Competente en **Patrones de Diseño** y manejo efectivo de **Gestión de Datos**.
-- Análisis exhaustivo de **Requisitos** para una ejecución precisa del proyecto.
-- Impulsada por la **Innovación Tecnológica** para mantenerse en la vanguardia.
 - Proficiente en liderar **Frameworks Frontend** para un desarrollo sin problemas.
 - Maestría en técnicas de **Desarrollo Backend Eficiente**.
 - Habilidad en el **Manejo de Bases de Datos** para aplicaciones basadas en datos.
-- Entrega de **Soluciones de Alto Rendimiento** para una experiencia óptima del usuario.
 - Diseño intuitivo de **Interfaz de Usuario** para un compromiso mejorado.
 - Análisis basado en datos y **Visualización de Datos** efectiva.
-- Creación de **Aplicaciones Web** que satisfacen las necesidades y expectativas del usuario.
 - **Pensamiento Analítico** agudo y **Resolución Innovadora de Problemas**.
-- **Investigación Tecnológica** continua para mantenerse actualizado.
 - **Adopción de Nuevas Tecnologías** de manera rápida para mantenerse competitivo.
 - Experiencia extensa en **Proyectos de Tecnología de la Información (TI)** para entregas exitosas.
 - Aprovechamiento de **Conocimientos Técnicos Avanzados** para soluciones sólidas.
@@ -122,37 +113,30 @@ Hello! My name is **Macarena Castillo Ruiz**, and I am a passionate Full Stack D
 
 ## **Soft Skills**
 
-- **Passion** for technology and a relentless focus on **enhancing user experience**.
-- Synergy of **Technology and Emotion** in creating impactful web experiences.
-- **Continuous Improvement** and **Constant Learning** to stay ahead.
-- Effective **Team Collaboration** for holistic project success.
-- Clear and **Effective Communication** for seamless coordination.
-- Creative and **Innovative Problem Solving** through continuous learning.
-- **Adaptive Design** and **UI/UX Mastery** for optimal user interaction.
+## **Interpersonal Skills**
+
+In my pursuit of **professional excellence**, I stand out for my **interpersonal skills**, which have proven to be a key driver of success in collaborative projects. My commitment to **clear and effective communication** has facilitated seamless team coordination, while my **passion for technology** is evident in every effort I make to enhance the user experience. A synergy between technology and emotion guides the creation of impactful web experiences, supported by a **constant commitment to continuous improvement and learning**. My innovative approach is reflected in creatively solving problems and adaptable design, paired with a strong mastery of user interface (UI) and user experience (UX) for optimal interactions. As an enthusiastic and adaptable collaborator, I am confident in my ability to bring exceptional value to any team and project.
 
 ## **Technical Competencies**
 
-- **Agile Development** to ensure efficient and iterative progress.
+- **Continuous Technological Research** to stay updated.
+- Thorough **Requirement Analysis** for precise project execution.
+- Creation of **Web Applications** that meet user needs and expectations.
+- Proficient in **Design Patterns** and effective **Data Management**.
+- Delivery of **High-Performance Solutions** for optimal user experience.
 - Expertise in crafting robust **Software Architecture**.
+- Driven by **Technological Innovation** to stay at the forefront.
+- **Agile Development** to ensure efficient and iterative progress.
 - **Deployment and Hosting** for seamless user access.
 - Prioritizing **User Experience (UX)** for enhanced engagement.
 - Mastery of **Agile Methodologies** for streamlined development.
-
-## **Additional Abilities**
-
-- Proficient in **Design Patterns** and effective **Data Management**.
-- In-depth **Requirement Analysis** for accurate project execution.
-- Driven by **Technological Innovation** to stay at the forefront.
 - Proficient in leading **Frontend Frameworks** for seamless development.
-- Mastery of **Efficient Backend Development** techniques.
+- Mastery of techniques for **Efficient Backend Development**.
 - Skillful **Database Management** for data-driven applications.
-- Delivering **High-Performance Solutions** for optimal user experience.
 - Intuitive **User Interface Design** for enhanced engagement.
 - Data-driven **Analysis** and effective **Data Visualization**.
-- Crafting **Web Applications** that meet user needs and expectations.
 - Sharp **Analytical Thinking** and innovative **Problem Solving**.
-- Continuous **Technological Research** to stay updated.
 - Swift **Adoption of New Technologies** to remain competitive.
-- Extensive **IT Project Experience** for successful delivery.
+- Extensive experience in **IT Project Management** for successful deliveries.
 - Leveraging **Advanced Technical Knowledge** for robust solutions.
 - Crafting **Innovative Solutions** that push boundaries.
