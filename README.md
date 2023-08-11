@@ -21,21 +21,7 @@
 - Pruebas Unitarias. Jest.
 - Seguridad Web.
 
-## **Destacados en Experiencia**
-
-- Experta en **JavaScript (ES6+)** para crear interfaces intuitivas y creativas.
-- Experiencia en desarrollo Full Stack con dominio tanto de **frontend como backend**.
-- Habilidad en **HTML5, CSS**, y diseño responsivo para presentaciones atractivas.
-- Conocimiento profundo de **React y Redux** para optimizar la experiencia del usuario.
-- Uso experto de **Sequelize, PostgreSQL**, y bases de datos relacionales.
-- Competente en **Node.js y Express.js** para un desarrollo backend eficiente.
-- Integración fluida de **APIs** para funcionalidad mejorada.
-- Enfoque en **diseño centrado en el usuario** y mejora de la Experiencia de Usuario (**UX**).
-- Implementación de **código creativo** para interfaces impactantes y amigables.
-- Resolución ágil y precisa de **problemas técnicos** para una experiencia fluida.
-- Impulsada por la **innovación** en tecnología web con enfoque en soluciones vanguardistas.
-
-## **Proyectos Destacados**
+- ## **Proyectos Destacados**
 
 1. **Aplicación Rick and Morty**: Experiencia dinámica para explorar personajes y emociones en la popular serie.
 2. **Aplicación PI-COUNTRIES**: Herramienta completa para explorar y conectarse con países de todo el mundo.
@@ -48,6 +34,20 @@ En mi búsqueda de la **excelencia profesional**, destaco por mis habilidades in
 Mientras que mi **pasión por la tecnología** se refleja en cada esfuerzo que realizo para mejorar la experiencia del usuario. Esta pasión me ayuda a percibir de la mejor manera lo que el usuario desea y plasmarlo en interfaces de usuario (UI) que funcionen tanto en términos de usabilidad como de diseño.  Mi enfoque innovador se manifiesta en la resolución creativa de problemas y el diseño adaptable, combinado con un dominio sólido de la interfaz de usuario (UI) y la experiencia del usuario (UX) para lograr interacciones óptimas. 
 
 Siendo una colaboradora apasionada y adaptable, estoy seguro de que puedo aportar un **valor excepcional** a cualquier equipo y proyecto. Estoy comprometida y emocionada por enfrentar nuevos desafíos y estoy segura de que, al unir fuerzas, lograremos resultados impactantes y **sobrepasaremos las expectativas**. 
+
+## **Experiencia**
+
+- Experta en **JavaScript (ES6+)** para crear interfaces intuitivas y creativas.
+- Experiencia en desarrollo Full Stack con dominio tanto de **frontend como backend**.
+- Habilidad en **HTML5, CSS**, y diseño responsivo para presentaciones atractivas.
+- Conocimiento profundo de **React y Redux** para optimizar la experiencia del usuario.
+- Uso experto de **Sequelize, PostgreSQL**, y bases de datos relacionales.
+- Competente en **Node.js y Express.js** para un desarrollo backend eficiente.
+- Integración fluida de **APIs** para funcionalidad mejorada.
+- Enfoque en **diseño centrado en el usuario** y mejora de la Experiencia de Usuario (**UX**).
+- Implementación de **código creativo** para interfaces impactantes y amigables.
+- Resolución ágil y precisa de **problemas técnicos** para una experiencia fluida.
+- Impulsada por la **innovación** en tecnología web con enfoque en soluciones vanguardistas.
 
 ## **Competencias Técnicas**
 
@@ -95,7 +95,21 @@ Hello! My name is **Macarena Castillo Ruiz**, and I am a passionate Full Stack D
 - Unit Testing. Jest.
 - Web Security.
 
-## **Experience Highlights**
+## **Noteworthy Projects**
+
+1. **Rick and Morty Application**: A dynamic experience to explore characters and emotions in the popular series.
+2. **PI-COUNTRIES Application**: A comprehensive tool to explore and connect with countries worldwide.
+3. **[FOOD Recipe Platform](ADD FOOD PROJECT LINK)**: Empowering users with diet management, recipes, and personalized solutions.
+
+## **Soft Skills**
+
+In my pursuit of **professional excellence**, I am distinguished by my strong interpersonal skills, which have proven to be a pivotal asset for success in collaborative projects. My unwavering commitment to **clear and effective communication** has facilitated seamless integration within teams. A harmonious blend of technology and emotion guides the creation of impactful web experiences, underpinned by a **steadfast dedication to continuous improvement and learning**.
+
+Simultaneously, my **passion for technology** is palpable in every endeavor I undertake to enhance user experiences. This fervor empowers me to accurately perceive user desires and translate them into user interface (UI) designs that seamlessly merge usability and aesthetics. My innovative approach shines through creative problem-solving and adaptable design, complemented by a firm command of user interface (UI) and user experience (UX) principles to achieve optimal interactions. 
+
+As a passionate and adaptable collaborator, I am confident in my ability to contribute **exceptional value** to any team and project. I am fully committed and excited to embrace new challenges, and I am certain that, through collaborative effort, we will achieve impactful outcomes that **surpass expectations**.
+
+## **Experience**
 
 - Proficient in **JavaScript (ES6+)** for creating intuitive and creative interfaces.
 - Full Stack development experience with expertise in both **frontend and backend**.
@@ -108,24 +122,6 @@ Hello! My name is **Macarena Castillo Ruiz**, and I am a passionate Full Stack D
 - Implementing **creative coding** for impactful and user-friendly interfaces.
 - Agile and precise **technical issue resolution** for seamless user experience.
 - Driven by **innovation** in web technology with a focus on cutting-edge solutions.
-
-## **Noteworthy Projects**
-
-1. **Rick and Morty Application**: A dynamic experience to explore characters and emotions in the popular series.
-2. **PI-COUNTRIES Application**: A comprehensive tool to explore and connect with countries worldwide.
-3. **[FOOD Recipe Platform](ADD FOOD PROJECT LINK)**: Empowering users with diet management, recipes, and personalized solutions.
-
-## **Soft Skills**
-
-## **Interpersonal Skills**
-
-## **Professional Excellence and Innovative Collaboration**
-
-In my pursuit of **professional excellence**, I am distinguished by my strong interpersonal skills, which have proven to be a pivotal asset for success in collaborative projects. My unwavering commitment to **clear and effective communication** has facilitated seamless integration within teams. A harmonious blend of technology and emotion guides the creation of impactful web experiences, underpinned by a **steadfast dedication to continuous improvement and learning**.
-
-Simultaneously, my **passion for technology** is palpable in every endeavor I undertake to enhance user experiences. This fervor empowers me to accurately perceive user desires and translate them into user interface (UI) designs that seamlessly merge usability and aesthetics. My innovative approach shines through creative problem-solving and adaptable design, complemented by a firm command of user interface (UI) and user experience (UX) principles to achieve optimal interactions. 
-
-As a passionate and adaptable collaborator, I am confident in my ability to contribute **exceptional value** to any team and project. I am fully committed and excited to embrace new challenges, and I am certain that, through collaborative effort, we will achieve impactful outcomes that **surpass expectations**.
 
 ## **Technical Competencies**
 
