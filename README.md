@@ -1,8 +1,10 @@
-![PORTADA](https://github.com/Age-NteK/Age-NteK/assets/107895191/22931d0e-a316-4b63-b338-04625fbf6834)
+![DEFINITIVA](https://github.com/Age-NteK/Age-NteK/assets/107895191/3884b1d8-1208-4c5a-8460-6c53742d8e92)
 
 # Macarena Castillo Ruiz - Desarrolladora Full Stack
 
 ## **Sobre mí**
+
+
 
 ¡Hola! Mi nombre es **Macarena Castillo Ruiz**, y soy una apasionada Desarrolladora Full Stack. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, proyectos destacados y competencias en el ámbito tecnológico. Mi enfoque en la mejora continua, la creatividad y la experiencia del usuario garantizan soluciones innovadoras y de alto rendimiento. Espero que disfrutes navegando por mi perfil y descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
 
