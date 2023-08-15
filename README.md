@@ -27,7 +27,7 @@
 
 1. **Aplicación Rick and Morty**: Experiencia dinámica para explorar personajes y emociones en la popular serie.
 2. **Aplicación PI-COUNTRIES**: Herramienta completa para explorar y conectarse con países de todo el mundo.
-3. **[Plataforma de Recetas FOOD](AGREGAR LINK PROYECTO FOOD)**: Gestión de dietas, recetas y soluciones personalizadas.
+3. **[[Plataforma de Recetas FOOD](AGREGAR LINK PROYECTO FOOD)](https://github.com/Age-NteK/FOOD.git)**: Gestión de dietas, recetas y soluciones personalizadas.
 
 ## **Habilidades interpersonales**
 
