@@ -25,9 +25,9 @@
 
 - ## **Proyectos Destacados**
 
-1. **Aplicación Rick and Morty**: Experiencia dinámica para explorar personajes y emociones en la popular serie.
-2. **Aplicación PI-COUNTRIES**: Herramienta completa para explorar y conectarse con países de todo el mundo.
-3. **[[Plataforma de Recetas FOOD](AGREGAR LINK PROYECTO FOOD)](https://github.com/Age-NteK/FOOD.git)**: Gestión de dietas, recetas y soluciones personalizadas.
+1. **[Aplicación Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)**: Experiencia dinámica para explorar personajes y emociones en la popular serie.
+2. **[Aplicación PI-COUNTRIES](https://github.com/Age-NteK/PI-COUNTRIES.git)**: Herramienta completa para explorar y conectarse con países de todo el mundo.
+3. **[[Plataforma de Recetas FOOD](https://github.com/Age-NteK/FOOD.git)**: Gestión de dietas, recetas y soluciones personalizadas.
 
 ## **Habilidades interpersonales**
 
@@ -99,9 +99,9 @@ Hello! My name is **Macarena Castillo Ruiz**, and I am a passionate Full Stack D
 
 ## **Noteworthy Projects**
 
-1. **Rick and Morty Application**: A dynamic experience to explore characters and emotions in the popular series.
-2. **PI-COUNTRIES Application**: A comprehensive tool to explore and connect with countries worldwide.
-3. **[FOOD Recipe Platform](ADD FOOD PROJECT LINK)**: Empowering users with diet management, recipes, and personalized solutions.
+1. **[Rick and Morty Application](https://github.com/Age-NteK/RickAndMorty.git)**: A dynamic experience to explore characters and emotions in the popular series.
+2. **[PI-COUNTRIES Application](https://github.com/Age-NteK/PI-COUNTRIES.git)**: A comprehensive tool to explore and connect with countries worldwide.
+3. **[FOOD Recipe Platform](https://github.com/Age-NteK/FOOD.git)**: Empowering users with diet management, recipes, and personalized solutions.
 
 ## **Soft Skills**
 
