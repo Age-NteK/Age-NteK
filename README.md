@@ -27,7 +27,7 @@
 
 1. **[Aplicación Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)**: Experiencia dinámica para explorar personajes y emociones en la popular serie.
 2. **[Aplicación PI-COUNTRIES](https://github.com/Age-NteK/PI-COUNTRIES.git)**: Herramienta completa para explorar y conectarse con países de todo el mundo.
-3. **[[Aplicación FOOD](https://github.com/Age-NteK/FOOD.git)**: Gestión de dietas, recetas y soluciones personalizadas.
+3. **[Aplicación FOOD](https://github.com/Age-NteK/FOOD.git)**: Gestión de dietas, recetas y soluciones personalizadas.
 
 ## **Habilidades interpersonales**
 
