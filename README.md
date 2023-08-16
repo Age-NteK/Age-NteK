@@ -1,4 +1,4 @@
-![DEFINITIVA](https://github.com/Age-NteK/Age-NteK/assets/107895191/3d7e9811-af14-41f1-ac28-10701ed23676)
+![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/fe5f7fc7-5392-433d-85fa-46479a4a30b9)
 
 # Macarena Castillo Ruiz - Desarrolladora Full Stack
 
