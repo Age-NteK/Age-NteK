@@ -2,11 +2,11 @@
 
 # **⚡ Macarena Castillo Ruiz - Desarrolladora Full Stack ⚡**
 
-## **Sobre mí**
+## **🎀 Sobre mí 🎀**
 
 ¡Hola! Mi nombre es **Macarena Castillo Ruiz**, y soy una apasionada Desarrolladora Full Stack. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, proyectos destacados y competencias en el ámbito tecnológico. Mi enfoque en la mejora continua, la creatividad y la experiencia del usuario garantizan soluciones innovadoras y de alto rendimiento. Espero que disfrutes navegando por mi perfil y descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
 
-## ** 🌐 Habilidades Tecnológicas 🌐**
+## **🌐 Habilidades Tecnológicas 🌐**
 
 - JavaScript (ES6+).
 - Control de Versiones (Git).
@@ -21,7 +21,7 @@
 - Pruebas Unitarias. Jest.
 - Seguridad Web.
 
-- ## ** ⭐ Proyectos Destacados ⭐**
+- ## **⭐ Proyectos Destacados ⭐**
 
 1. **[Aplicación Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)**: Experiencia dinámica para explorar personajes y emociones en la popular serie.
 2. **[Aplicación PI-COUNTRIES](https://github.com/Age-NteK/PI-COUNTRIES.git)**: Herramienta completa para explorar y conectarse con países de todo el mundo.
@@ -35,7 +35,7 @@ Mientras que mi **pasión por la tecnología** se refleja en cada esfuerzo que r
 
 Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo aportar un **valor excepcional** a cualquier equipo y proyecto. Estoy comprometida y emocionada por enfrentar nuevos desafíos y estoy segura de que, al unir fuerzas, lograremos resultados impactantes y **sobrepasaremos las expectativas**. 
 
-## ** ⚜️ Experiencia ⚜️ **
+## **⚜️ Experiencia ⚜️ **
 
 - Experta en **JavaScript (ES6+)** para crear interfaces intuitivas y creativas.
 - Experiencia en desarrollo Full Stack con dominio tanto de **frontend como backend**.
@@ -49,7 +49,7 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 - Resolución ágil y precisa de **problemas técnicos** para una experiencia fluida.
 - Impulsada por la **innovación** en tecnología web con enfoque en soluciones vanguardistas.
 
-## ** 👩‍💻 Competencias Técnicas 👩‍💻**
+## **👩‍💻 Competencias Técnicas 👩‍💻**
 
 - **Investigación Tecnológica** continua para mantenerse actualizado.
 - Análisis exhaustivo de **Requisitos** para una ejecución precisa del proyecto.
@@ -76,7 +76,7 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 
 # **⚡ Macarena Castillo Ruiz - Full Stack Developer ⚡** 
 
-## **About**
+## **🎀 About 🎀**
 
 Hello! My name is **Macarena Castillo Ruiz**, and I am a passionate Full Stack Developer. I invite you to explore my profile, where you will find a detailed overview of my technical skills, noteworthy projects, and technological competencies. My emphasis on continuous improvement, creativity, and user experience ensures innovative and high-performance solutions. I hope you enjoy browsing through my profile and discovering how we can create something exceptional together. **Looking forward to the opportunity of working with you!**
 
@@ -95,7 +95,7 @@ Hello! My name is **Macarena Castillo Ruiz**, and I am a passionate Full Stack D
 - Unit Testing. Jest.
 - Web Security.
 
-## ** ⭐ Noteworthy Projects ⭐**
+## **⭐ Noteworthy Projects ⭐**
 
 1. **[Rick and Morty Application](https://github.com/Age-NteK/RickAndMorty.git)**: A dynamic experience to explore characters and emotions in the popular series.
 2. **[PI-COUNTRIES Application](https://github.com/Age-NteK/PI-COUNTRIES.git)**: A comprehensive tool to explore and connect with countries worldwide.
@@ -111,7 +111,7 @@ My innovative approach shines through creative problem-solving and adaptable des
 
 As a **passionate and adaptable collaborator**, I am confident that I can contribute **exceptional value** to any team and project. I am fully committed and excited to embrace new challenges, and I am certain that, through collaborative effort, we will achieve impactful outcomes that **exceed expectations**.
 
-## ** ⚜️ Experience ⚜️**
+## **⚜️ Experience ⚜️**
 
 - Proficient in **JavaScript (ES6+)** for creating intuitive and creative interfaces.
 - Full Stack development experience with expertise in both **frontend and backend**.
