@@ -74,6 +74,14 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 - Aprovechamiento de **Conocimientos Técnicos Avanzados** para soluciones sólidas.
 - Creación de **Soluciones Innovadoras** que traspasan los límites.
 
+## ☎️ Contacto ☎️
+
+Si está interesado en colaborar, tiene alguna pregunta o simplemente quiere conectarse, le extiendo una cordial invitación para visitar mi perfil de linkedin. También, puede comunicarse conmigo vía email.
+
+- 👉 linkedin.com/in/macarena-castillo-366173288 👈
+- 👉 macarenacastilloruiz@gmail.com 👈
+
+## **🍀 ¡Gracias por visitar mi repositorio y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀**
 
 # **⚡ Macarena Castillo Ruiz - Full Stack Developer ⚡** 
 
@@ -150,11 +158,11 @@ As a **passionate and adaptable collaborator**, I am confident that I can contri
 - Leveraging **Advanced Technical Knowledge** for robust solutions.
 - Crafting **Innovative Solutions** that push boundaries.
 
-## ☎️ Contacto ☎️
+## ☎️ Contact ☎️
 
-Si está interesado en colaborar, tiene alguna pregunta o simplemente quiere conectarse, le extiendo una cordial invitación para visitar mi perfil de linkedin. También, puede comunicarse conmigo vía email.
+If you're interested in collaborating, have any questions, or simply want to connect, I extend a warm invitation to visit my [LinkedIn profile](https://www.linkedin.com/in/macarena-castillo-366173288/). You can also get in touch with me via email.
 
-- 👉 linkedin.com/in/macarena-castillo-366173288 👈
-- 👉 macarenacastilloruiz@gmail.com 👈
+- 👉 [linkedin.com/in/macarena-castillo-366173288](https://www.linkedin.com/in/macarena-castillo-366173288/)
+- 👉 macarenacastilloruiz@gmail.com
 
-## **🍀 ¡Gracias por visitar mi repositorio y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀**
+## **🍀 Thank you for visiting my repository and for being a part of my learning journey in the world of technology! 🍀**
