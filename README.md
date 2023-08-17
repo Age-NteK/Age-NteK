@@ -81,7 +81,7 @@ Si está interesado en colaborar, tiene alguna pregunta o simplemente quiere con
 - 👉 linkedin.com/in/macarena-castillo-366173288 👈
 - 👉 macarenacastilloruiz@gmail.com 👈
 
-## **🍀 ¡Gracias por visitar mi repositorio y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀**
+### **🍀 ¡Gracias por visitar mi repositorio y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀**
 
 # **⚡ Macarena Castillo Ruiz - Full Stack Developer ⚡** 
 
@@ -165,4 +165,4 @@ If you're interested in collaborating, have any questions, or simply want to con
 - 👉 [linkedin.com/in/macarena-castillo-366173288](https://www.linkedin.com/in/macarena-castillo-366173288/)
 - 👉 macarenacastilloruiz@gmail.com
 
-## **🍀 Thank you for visiting my repository and for being a part of my learning journey in the world of technology! 🍀**
+### **🍀 Thank you for visiting my repository and for being a part of my learning journey in the world of technology! 🍀**
