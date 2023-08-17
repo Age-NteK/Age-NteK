@@ -2,11 +2,11 @@
 
 # **⚡ Macarena Castillo Ruiz - Desarrolladora Full Stack ⚡**
 
-## **🎀 Sobre mí 🎀**
+## **🔸 Sobre mí 🔸**
 
 ¡Hola! Mi nombre es **Macarena Castillo Ruiz**, y soy una apasionada Desarrolladora Full Stack. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, proyectos destacados y competencias en el ámbito tecnológico. Mi enfoque en la mejora continua, la creatividad y la experiencia del usuario garantizan soluciones innovadoras y de alto rendimiento. Espero que disfrutes navegando por mi perfil y descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
 
-## **🌐 Habilidades Tecnológicas 🌐**
+## **👩‍💻 Habilidades Tecnológicas 👩‍💻**
 
 - JavaScript (ES6+).
 - Control de Versiones (Git).
@@ -21,7 +21,7 @@
 - Pruebas Unitarias. Jest.
 - Seguridad Web.
 
-- ## **⭐ Proyectos Destacados ⭐**
+## **⭐ Proyectos Destacados ⭐**
 
 1. **[Aplicación Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)**: Experiencia dinámica para explorar personajes y emociones en la popular serie.
 2. **[Aplicación PI-COUNTRIES](https://github.com/Age-NteK/PI-COUNTRIES.git)**: Herramienta completa para explorar y conectarse con países de todo el mundo.
@@ -49,7 +49,7 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 - Resolución ágil y precisa de **problemas técnicos** para una experiencia fluida.
 - Impulsada por la **innovación** en tecnología web con enfoque en soluciones vanguardistas.
 
-## **👩‍💻 Competencias Técnicas 👩‍💻**
+## **🌐 Competencias Técnicas 🌐**
 
 - **Investigación Tecnológica** continua para mantenerse actualizado.
 - Análisis exhaustivo de **Requisitos** para una ejecución precisa del proyecto.
@@ -76,11 +76,11 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 
 # **⚡ Macarena Castillo Ruiz - Full Stack Developer ⚡** 
 
-## **🎀 About 🎀**
+## **🔸 About 🔸**
 
 Hello! My name is **Macarena Castillo Ruiz**, and I am a passionate Full Stack Developer. I invite you to explore my profile, where you will find a detailed overview of my technical skills, noteworthy projects, and technological competencies. My emphasis on continuous improvement, creativity, and user experience ensures innovative and high-performance solutions. I hope you enjoy browsing through my profile and discovering how we can create something exceptional together. **Looking forward to the opportunity of working with you!**
 
-## **🌐 Tech Skills 🌐**
+## **👩‍💻 Tech Skills 👩‍💻**
 
 - JavaScript (ES6+).
 - Version Control (Git).
@@ -125,7 +125,7 @@ As a **passionate and adaptable collaborator**, I am confident that I can contri
 - Agile and precise **technical issue resolution** for seamless user experience.
 - Driven by **innovation** in web technology with a focus on cutting-edge solutions.
 
-## **👩‍💻 Technical Competencies 👩‍💻**
+## **🌐 Technical Competencies 🌐**
 
 - **Continuous Technological Research** to stay updated.
 - Thorough **Requirement Analysis** for precise project execution.
@@ -149,9 +149,9 @@ As a **passionate and adaptable collaborator**, I am confident that I can contri
 - Leveraging **Advanced Technical Knowledge** for robust solutions.
 - Crafting **Innovative Solutions** that push boundaries.
 
-## 🍀 Contacto 🍀
+## ☎️ Contacto ☎️
 
 Si está interesado en colaborar, tiene alguna pregunta o simplemente quiere conectarse, le extiendo una cordial invitación para visitar mi perfil de linkedin. También, puede comunicarse conmigo vía email.
 - 👉 linkedin.com/in/macarena-castillo-366173288 👈
 - 👉 macarenacastilloruiz@gmail.com 👈
-## ¡Gracias por visitar mi repositorio y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!
+##🍀 ¡Gracias por visitar mi repositorio y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀
