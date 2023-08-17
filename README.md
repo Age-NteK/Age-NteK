@@ -2,6 +2,7 @@
 
 # **⚡ Macarena Castillo Ruiz - Desarrolladora Full Stack ⚡**
 
+
 ## **🔸 Sobre mí 🔸**
 
 ¡Hola! Mi nombre es **Macarena Castillo Ruiz**, y soy una apasionada Desarrolladora Full Stack. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, proyectos destacados y competencias en el ámbito tecnológico. Mi enfoque en la mejora continua, la creatividad y la experiencia del usuario garantizan soluciones innovadoras y de alto rendimiento. Espero que disfrutes navegando por mi perfil y descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
@@ -35,7 +36,7 @@ Mientras que mi **pasión por la tecnología** se refleja en cada esfuerzo que r
 
 Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo aportar un **valor excepcional** a cualquier equipo y proyecto. Estoy comprometida y emocionada por enfrentar nuevos desafíos y estoy segura de que, al unir fuerzas, lograremos resultados impactantes y **sobrepasaremos las expectativas**. 
 
-## **⚜️ Experiencia ⚜️ **
+## **⚜️ Experiencia ⚜️**
 
 - Experta en **JavaScript (ES6+)** para crear interfaces intuitivas y creativas.
 - Experiencia en desarrollo Full Stack con dominio tanto de **frontend como backend**.
@@ -152,6 +153,8 @@ As a **passionate and adaptable collaborator**, I am confident that I can contri
 ## ☎️ Contacto ☎️
 
 Si está interesado en colaborar, tiene alguna pregunta o simplemente quiere conectarse, le extiendo una cordial invitación para visitar mi perfil de linkedin. También, puede comunicarse conmigo vía email.
+
 - 👉 linkedin.com/in/macarena-castillo-366173288 👈
 - 👉 macarenacastilloruiz@gmail.com 👈
-##🍀 ¡Gracias por visitar mi repositorio y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀
+
+## **🍀 ¡Gracias por visitar mi repositorio y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀**
