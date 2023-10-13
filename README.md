@@ -5,7 +5,7 @@
 
 ## **🔸 Sobre mí 🔸**
 
-¡Hola! Mi nombre es **Macarena Castillo Ruiz**, y soy una apasionada Desarrolladora Full Stack. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, proyectos destacados y competencias en el ámbito tecnológico. Mi enfoque en la mejora continua, la creatividad y la experiencia del usuario garantizan soluciones innovadoras y de alto rendimiento. Espero que disfrutes navegando por mi perfil y descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
+¡Hola! Mi nombre es **Macarena**, apasionada Desarrolladora Full Stack. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, proyectos destacados y competencias en el ámbito tecnológico. Mi enfoque en la mejora continua, la creatividad y la experiencia del usuario garantizan soluciones de alto rendimiento. Espero que disfrutes descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
 
 ## **👩‍💻 Habilidades Tecnológicas 👩‍💻**
 
@@ -31,8 +31,6 @@
 ## **❤️ Habilidades interpersonales ❤️**
 
 En mi búsqueda de la **excelencia profesional**, destaco por mis habilidades interpersonales que han demostrado ser una pieza clave para el éxito en proyectos colaborativos. Mi compromiso con la **comunicación clara y efectiva** ha permitido participar en equipos de manera fluida. Una sinergia entre la tecnología y la emoción guía la creación de experiencias web impactantes, respaldada por un **compromiso constante con la mejora continua y el aprendizaje**. 
-
-Mientras que mi **pasión por la tecnología** se refleja en cada esfuerzo que realizo para mejorar la experiencia del usuario. Mis habilidades interpersonales me ayudan también a percibir de la mejor manera lo que el usuario desea y plasmarlo en interfaces de usuario (UI) que funcionen tanto en términos de usabilidad como de diseño.  Mi enfoque innovador se manifiesta en la resolución creativa de problemas y el diseño adaptable, combinado con un dominio sólido de la interfaz de usuario (UI) y la experiencia del usuario (UX) para lograr interacciones óptimas. 
 
 Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo aportar un **valor excepcional** a cualquier equipo y proyecto. Estoy comprometida y emocionada por enfrentar nuevos desafíos y estoy segura de que, al unir fuerzas, lograremos resultados impactantes y **sobrepasaremos las expectativas**. 
 
