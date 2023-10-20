@@ -11,7 +11,7 @@ En mi búsqueda de la **excelencia profesional**, destaco por mis habilidades in
 
 Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo aportar un **valor excepcional** a cualquier equipo y proyecto. Estoy comprometida y emocionada por enfrentar nuevos desafíos y estoy segura de que, al unir fuerzas, lograremos resultados impactantes y **sobrepasaremos las expectativas**. 
 
-## **👩‍💻 Habilidades Tecnológicas 👩‍💻**
+## **🌐 Habilidades Tecnológicas 🌐**
 
 - JavaScript (ES6+)
 - Git
@@ -52,7 +52,7 @@ Desarrollé una aplicación para explorar y filtrar personajes de "Rick and Mort
 
 Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario. Implementé funciones de búsqueda, filtrado y ordenamiento de países para facilitar la búsqueda de información. Establecí procesos seguros de inicio de sesión y registro, y diseñé rutas en el backend. Utilicé Redux para gestionar estados y garantizar una navegación fluida. 
 
-## **🌐 Competencias Técnicas 🌐**
+## **👩‍💻 Competencias Técnicas 👩‍💻**
 
 - **Investigación Tecnológica** continua para mantenerse actualizado.
 - Análisis exhaustivo de **Requisitos** para una ejecución precisa del proyecto.
@@ -135,7 +135,7 @@ I developed an application to explore and filter "Rick and Morty" characters, wi
 
 I developed the Countries Application, focusing on the user experience. I implemented country search, filtering, and sorting functions to facilitate information retrieval. I established secure login and registration processes and designed routes on the backend. I used Redux to manage states and ensure smooth navigation.
 
-## **🌐 Technical Competencies 🌐**
+## **👩‍💻 Technical Competencies 👩‍💻**
 
 - Continuous **Technological Research** to stay updated.
 - Comprehensive **Requirements Analysis** for precise project execution.
