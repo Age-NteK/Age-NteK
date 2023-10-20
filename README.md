@@ -80,9 +80,9 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 
 Si está interesado en colaborar, tiene alguna pregunta o simplemente quiere conectarse, le extiendo una cordial invitación para visitar mi perfil de linkedin. También, puede comunicarse conmigo vía email.
 
-👉 [LinkedIn](https://www.linkedin.com/in/macarena-sneider-48b4a2294/) 👈
-👉 correoaleatorio465@gmail.com 👈
-👉 macarenacastilloruiz@gmail.com 👈
+👉 [LinkedIn](https://www.linkedin.com/in/macarena-sneider-48b4a2294/)
+👉 correoaleatorio465@gmail.com
+👉 macarenacastilloruiz@gmail.com
 
 ### **🍀 ¡Gracias por visitar mi Perfil y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀**
 
@@ -163,8 +163,8 @@ I developed the Countries Application, focusing on the user experience. I implem
 
 If you are interested in collaborating, have any questions, or just want to connect, I extend a warm invitation to visit my LinkedIn profile. You can also reach out to me via email.
 
-👉 [LinkedIn](https://www.linkedin.com/in/macarena-sneider-48b4a2294/) 👈
-👉 correoaleatorio465@gmail.com 👈
-👉 macarenacastilloruiz@gmail.com 👈
+👉 [LinkedIn](https://www.linkedin.com/in/macarena-sneider-48b4a2294/)
+👉 correoaleatorio465@gmail.com 
+👉 macarenacastilloruiz@gmail.com 
 
 ### **🍀 Thank you for visiting my profile and being a part of my learning journey in the world of technology! 🍀**
