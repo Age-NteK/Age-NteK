@@ -5,48 +5,51 @@
 
 ## **🔸 Sobre mí 🔸**
 
-¡Hola! Mi nombre es **Macarena**, apasionada Desarrolladora Full Stack. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, proyectos destacados y competencias en el ámbito tecnológico. Mi enfoque en la mejora continua, la creatividad y la experiencia del usuario garantizan soluciones de alto rendimiento. Espero que disfrutes descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
+¡Hola! Mi nombre es **Macarena** y soy Desarrolladora Full Stack. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, proyectos destacados y competencias en el ámbito tecnológico. Mi enfoque en la mejora continua, la creatividad y la experiencia del usuario garantizan soluciones de alto rendimiento. Espero que disfrutes descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
 
-## **👩‍💻 Habilidades Tecnológicas 👩‍💻**
-
-- JavaScript (ES6+).
-- Control de Versiones (Git).
-- Desarrollo Frontend y Backend.
-- HTML5 y CSS. Diseño Responsivo.
-- React y Redux.
-- Bootstrap.
-- Diseño UI/UX.
-- Node.js y Express.js.
-- Sequelize.
-- PostgreSQL.
-- Pruebas Unitarias. Jest.
-- Seguridad Web.
-
-## **⭐ Proyectos Destacados ⭐**
-
-1. **[Aplicación Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)**: Experiencia dinámica para explorar personajes y emociones en la popular serie.
-2. **[Aplicación PI-COUNTRIES](https://github.com/Age-NteK/PI-COUNTRIES.git)**: Herramienta completa para explorar y conectarse con países de todo el mundo.
-3. **[Aplicación FOOD](https://github.com/Age-NteK/FOOD.git)**: Gestión de dietas, recetas y soluciones personalizadas.
-
-## **❤️ Habilidades interpersonales ❤️**
-
-En mi búsqueda de la **excelencia profesional**, destaco por mis habilidades interpersonales que han demostrado ser una pieza clave para el éxito en proyectos colaborativos. Mi compromiso con la **comunicación clara y efectiva** ha permitido participar en equipos de manera fluida. Una sinergia entre la tecnología y la emoción guía la creación de experiencias web impactantes, respaldada por un **compromiso constante con la mejora continua y el aprendizaje**. 
+En mi búsqueda de la **excelencia profesional**, destaco por mis habilidades interpersonales que han demostrado ser una pieza clave para el éxito en proyectos colaborativos. Mi compromiso con la **comunicación clara y efectiva** ha permitido participar en **equipos** de manera fluida. 
 
 Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo aportar un **valor excepcional** a cualquier equipo y proyecto. Estoy comprometida y emocionada por enfrentar nuevos desafíos y estoy segura de que, al unir fuerzas, lograremos resultados impactantes y **sobrepasaremos las expectativas**. 
 
-## **⚜️ Experiencia ⚜️**
+## **👩‍💻 Habilidades Tecnológicas 👩‍💻**
 
-- Experta en **JavaScript (ES6+)** para crear interfaces intuitivas y creativas.
-- Experiencia en desarrollo Full Stack con dominio tanto de **frontend como backend**.
-- Habilidad en **HTML5, CSS**, y diseño responsivo para presentaciones atractivas.
-- Conocimiento profundo de **React y Redux** para optimizar la experiencia del usuario.
-- Uso experto de **Sequelize, PostgreSQL**, y bases de datos relacionales.
-- Competente en **Node.js y Express.js** para un desarrollo backend eficiente.
-- Integración fluida de **APIs** para funcionalidad mejorada.
-- Enfoque en **diseño centrado en el usuario** y mejora de la Experiencia de Usuario (**UX**).
-- Implementación de **código creativo** para interfaces impactantes y amigables.
-- Resolución ágil y precisa de **problemas técnicos** para una experiencia fluida.
-- Impulsada por la **innovación** en tecnología web con enfoque en soluciones vanguardistas.
+- JavaScript (ES6+)
+- Git
+- GitHub
+- Node.js
+- HTML5
+- CSS
+- Bootstrap
+- React
+- Redux
+- Diseño UI/UX
+- Express.js
+- Sequelize
+- PostgreSQL
+- Jest
+
+## **⭐ Proyectos ⭐**
+
+3. **[Gamer Galaxy]([https://github.com/Age-NteK/FOOD.git](https://github.com/Age-NteK/GAMER-GALAXY))**:
+
+Gamer Galaxy es una aplicación web innovadora que guía a los entusiastas de la tecnología en la creación personalizada de sus computadoras. Implementa una API REST para futuras integraciones y escalabilidad, utilizando tecnologías como React, Sequelize, Tailwind CSS y Express con SQL y PostgreSQL en el backend. Ofrece una experiencia fluida con autenticación de usuarios, carrito de compras y plataforma de pago segura. Además, incluye filtros de búsqueda, información detallada y fotos de alta calidad. 
+
+3. **[Food](https://github.com/Age-NteK/FOOD.git)**: 
+
+La plataforma de recetas FOOD, utiliza Sequelize para gestionar datos y establecer relaciones sólidas. Implementé métodos de búsqueda avanzados, flujos de trabajo intuitivos para crear dietas y recetas, y mantuve la coherencia de la información con actualizaciones. Garanticé la precisión de datos mediante validaciones de formularios y opciones de gestión eficiente del contenido. Incorporé una página de error personalizada para mejorar la experiencia del usuario en rutas inexistentes. 
+
+3. **[Maybelline]([https://github.com/Age-NteK/FOOD.git](https://github.com/Age-NteK/MAYBELLYNE))**:
+
+Desarrollé una emocionante aplicación de belleza con un catálogo de productos detallado de Maybelline para compras, un sistema de carrito de compras funcional, autenticación segura de usuarios a través de Auth0, y una pasarela de pago de Mercado Pago. Además, incluye una sección educativa de tutoriales sobre productos y consejos de belleza. También implementé una API REST para futuras integraciones y escalabilidad. 
+
+
+1. **[Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)**: 
+
+Desarrollé una aplicación para explorar y filtrar personajes de "Rick and Morty", con funciones de favoritos y ordenamiento. Integré autenticación de usuarios, utilizando Redux para la gestión del estado. En el Back-end, configuré rutas para recuperar datos e interacciones como favoritos , así como opciones de ordenamiento, ofreciendo una experiencia fluida. 
+
+2. **[Countries](https://github.com/Age-NteK/PI-COUNTRIES.git)**: 
+
+Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario. Implementé funciones de búsqueda, filtrado y ordenamiento de países para facilitar la búsqueda de información. Establecí procesos seguros de inicio de sesión y registro, y diseñé rutas en el backend. Utilicé Redux para gestionar estados y garantizar una navegación fluida. 
 
 ## **🌐 Competencias Técnicas 🌐**
 
@@ -61,7 +64,7 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 - **Despliegue y Hosting** para un acceso fluido de los usuarios.
 - Priorización de la **Experiencia del Usuario (UX)** para un compromiso mejorado.
 - Dominio de **Metodologías Ágiles** para un desarrollo optimizado.
-- Proficiente en liderar **Frameworks Frontend** para un desarrollo sin problemas.
+- Proficiente en liderar **Frameworks Frontend** para un desarrollo óptimo.
 - Maestría en técnicas de **Desarrollo Backend Eficiente**.
 - Habilidad en el **Manejo de Bases de Datos** para aplicaciones basadas en datos.
 - Diseño intuitivo de **Interfaz de Usuario** para un compromiso mejorado.
@@ -76,7 +79,8 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 
 Si está interesado en colaborar, tiene alguna pregunta o simplemente quiere conectarse, le extiendo una cordial invitación para visitar mi perfil de linkedin. También, puede comunicarse conmigo vía email.
 
-- 👉 linkedin.com/in/macarena-castillo-366173288 👈
+- 👉 [linkedin.com/in/macarena-castillo-366173288](https://www.linkedin.com/in/macarena-sneider-48b4a2294/) 👈
+- 👉 correoaleatorio465@gmail.com 👈
 - 👉 macarenacastilloruiz@gmail.com 👈
 
 ### **🍀 ¡Gracias por visitar mi Perfil y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀**
