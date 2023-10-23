@@ -13,7 +13,7 @@ En mi búsqueda de la **excelencia profesional**, destaco por mis habilidades in
 
 Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo aportar un **valor excepcional** a cualquier equipo y proyecto. Estoy comprometida y emocionada por enfrentar nuevos desafíos y estoy segura de que, al unir fuerzas, lograremos resultados impactantes y **sobrepasaremos las expectativas**. 
 
-## **🌐 Habilidades Tecnológicas 🌐**
+---
 
 <p align="center" style="text-align: center;">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
