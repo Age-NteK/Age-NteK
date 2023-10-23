@@ -76,7 +76,7 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 
 ---
 
-# **⚜️ Proyectos ⚜️**
+# <div align="center" style="text-align: center;">**⚜️ Proyectos ⚜️**</div>
 
 ## **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**
 
@@ -106,7 +106,7 @@ Desarrollé una aplicación para explorar y filtrar personajes de **[Rick and Mo
 
 Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario. Implementé funciones de búsqueda, filtrado y ordenamiento de países para facilitar la búsqueda de información. Establecí procesos seguros de inicio de sesión y registro, y diseñé rutas en el backend. Utilicé Redux para gestionar estados y garantizar una navegación fluida. 
 
-# **⚜️ Competencias Técnicas ⚜️**
+# <div align="center" style="text-align: center;">**⚜️ Habilidades Técnicas ⚜️**</div>
 
 - **Investigación Tecnológica** continua para mantenerse actualizado.
 - Análisis exhaustivo de **Requisitos** para una ejecución precisa del proyecto.
@@ -156,7 +156,7 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
   </a>
 </div>
 
-### 🍀 ¡Gracias por visitar mi Perfil y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀
+### <div align="center" style="text-align: center;">🍀 ¡Gracias por visitar mi Perfil y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀</div>
 
 ---
 
