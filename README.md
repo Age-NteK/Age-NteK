@@ -80,7 +80,7 @@
 
 <div style="text-align: center;">
     <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294/" target="_blank">
-        <img src="https://docs.google.com/drawings/d/e/2PACX-1vRNVtUO9Hg9lzIcqti7K_OWc3fhUdlTFwLm58PCu5xt28mTPoLNafJO6LIeA0IYno9s8INIDmtrKBBX/pub?w=960&h=720" alt="profile" style="display: block; margin: 0 auto;">
+        <img src="https://docs.google.com/drawings/d/e/2PACX-1vRNVtUO9Hg9lzIcqti7K_OWc3fhUdlTFwLm58PCu5xt28mTPoLNafJO6LIeA0IYno9s8INIDmtrKBBX/pub?w=960&h=720" alt="profile" style="width: 100%; display: block; margin: 0 auto;">
     </a>
 </div>
 
