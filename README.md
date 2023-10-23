@@ -15,7 +15,7 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 
 <p align="center" style="text-align: center;">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" alt="git" width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" alt="git" width="55" height="55"/>
 </a>
 <a href="https://www.hostinger.es/tutoriales/que-es-github" target="_blank" rel="noreferrer">
     <img src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png" alt="github" width="50" height="50" margin-top="10"/>
