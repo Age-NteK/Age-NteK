@@ -133,8 +133,8 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 [<img src='https://github.com/Age-NteK/Age-NteK/raw/main/assets/107895191/eee93005-6ed2-4437-a5f9-8355978e560a.png' alt='email' width='24' style='width:24px; margin-right: 10px;'/>](mailto:correoaleatorio465@gmail.com)
 
 
-<a href="mailto:correoaleatorio465@gmail.com" style="width: 2px; height: 2px;">
-   ![gmail](https://github.com/Age-NteK/Age-NteK/assets/107895191/c16cfa89-7073-4bf3-951c-811b6c06ea85)
+<a href="mailto:correoaleatorio465@gmail.com">
+  <img src='https://github.com/Age-NteK/Age-NteK/raw/main/assets/107895191/eee93005-6ed2-4437-a5f9-8355978e560a.png' alt='email' width='24' style='width:24px; margin-right: 10px;'/>
 </a>
 ---
 
