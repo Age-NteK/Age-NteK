@@ -73,7 +73,10 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 - Express.js
 - Sequelize
 - PostgreSQL
+- MongoDb
 - Jest
+
+---
 
 ## **⭐ Proyectos ⭐**
 
