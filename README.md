@@ -132,7 +132,8 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png' alt='instagram' width='24' style='width:24px; margin-right: 10px;'/>](https://www.instagram.com/age_ntek/)
 
 <a href="mailto:correoaleatorio465@gmail.com">
-![gmail (1)](https://github.com/Age-NteK/Age-NteK/assets/107895191/de169085-0b4d-4a1f-ba34-716263a94921)
+![gmailicon](https://github.com/Age-NteK/Age-NteK/assets/107895191/4dc62bb1-f52e-4e59-9d83-ba2bafb7b564)
+
 </a>
 ---
 
