@@ -7,7 +7,7 @@
 
 ¡Hola! Mi nombre es **Macarena** y soy Desarrolladora Full Stack. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, proyectos destacados y competencias en el ámbito tecnológico. Mi enfoque en la mejora continua, la creatividad y la experiencia del usuario garantizan soluciones de alto rendimiento. Espero que disfrutes descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
 
-![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/2378d886-3c91-4b97-8bd4-6bafb445b605)
+![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/9b3dca43-6529-4383-ae8b-1c3d0a5c29fd)
 
 En mi búsqueda de la **excelencia profesional**, destaco por mis habilidades interpersonales que han demostrado ser una pieza clave para el éxito en proyectos colaborativos. Mi compromiso con la **comunicación clara y efectiva** ha permitido participar en **equipos** de manera fluida. 
 
@@ -168,7 +168,7 @@ Le extiendo una cálida invitación para ponerse en contacto. Estoy a su disposi
 
 Hello! My name is **Macarena**, and I'm a Full Stack Developer. I invite you to explore my profile, where you'll find a detailed summary of my technical skills, notable projects, and competencies in the tech field. My focus on continuous improvement, creativity, and user experience ensures high-performance solutions. I hope you enjoy discovering how we can create something exceptional together. **I look forward to working with you!**
 
-![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/2378d886-3c91-4b97-8bd4-6bafb445b605)
+![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/6c7f4f23-ffce-4472-9c2b-b4518c6e4130)
 
 In my pursuit of **professional excellence**, I stand out for my interpersonal skills, which have proven to be a key element for success in collaborative projects. My commitment to **clear and effective communication** has enabled me to smoothly participate in **teams**.
 
