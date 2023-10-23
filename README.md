@@ -58,22 +58,6 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 </a>
 </p>
 
-- JavaScript (ES6+)
-- Git
-- GitHub
-- Node.js
-- HTML5
-- CSS
-- Bootstrap
-- React
-- Redux
-- Diseño UI/UX
-- Express.js
-- Sequelize
-- PostgreSQL
-- MongoDb
-- Jest
-
 ---
 
 # <div align="center" style="text-align: center;">**⚜️ Proyectos ⚜️**</div>
