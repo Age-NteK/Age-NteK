@@ -1,5 +1,5 @@
 
-![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/fe5f7fc7-5392-433d-85fa-46479a4a30b9)
+![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/f392ffa0-495e-4388-b070-755c61d199bd)
 
 # <div align="center" style="text-align: center;">**⚜️ Perfil ⚜️**</div>
 
