@@ -1,8 +1,6 @@
 
 ![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/fe5f7fc7-5392-433d-85fa-46479a4a30b9)
 
----
-
 # <div align="center" style="text-align: center;">**⚜️ Sobre mí ⚜️**</div>
 
 ¡Hola! Mi nombre es **Macarena** y soy **Desarrolladora Full Stack**. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, **proyectos destacados** y competencias en el ámbito tecnológico. Mi enfoque en la **mejora continua**, la creatividad y la **experiencia del usuario** garantizan soluciones de **alto rendimiento**. Espero que disfrutes descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
@@ -80,7 +78,6 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 
 # <div align="center" style="text-align: center;">**⚜️ Proyectos ⚜️**</div>
 
----
 ## **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**
 
 Llevé a cabo una aplicación web innovadora que guía a los entusiastas de la tecnología en la creación personalizada de sus computadoras llamada **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**. Implementa una API REST para futuras integraciones y escalabilidad, utilizando tecnologías como React, Sequelize, Tailwind CSS y Express con SQL y PostgreSQL en el backend. Ofrece una experiencia fluida con autenticación de usuarios, carrito de compras y plataforma de pago segura. Además, incluye filtros de búsqueda, información detallada y fotos de alta calidad.
