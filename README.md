@@ -130,7 +130,6 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 - Aprovechamiento de **Conocimientos Técnicos Avanzados** para soluciones sólidas.
 - Creación de **Soluciones Innovadoras** que traspasan los límites.
 
----
 
 ## ☎️ Contácteme ☎️
 
