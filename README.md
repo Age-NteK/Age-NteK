@@ -126,37 +126,31 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 
 ## ☎️ Contacto ☎️
 
-### Mis redes sociales
+Si está interesado en colaborar, tiene alguna pregunta o simplemente quiere conectarse, le extiendo una cordial invitación para visitar mi perfil de linkedin. También, puede comunicarse conmigo vía email.
 
 <div align="center" style="text-align: center;">
-  <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294">
+  <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294" style="padding: 20px;">
     <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="LinkedIn" width="35" height="35">
   </a>
 
-  <a href="https://www.instagram.com/age_ntek">
+  <a href="https://www.instagram.com/age_ntek" style="padding: 20px;">
     <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="Instagram" width="35" height="35">
   </a>
   
-  <a href="https://www.facebook.com/profile.php?id=100016576718598&mibextid=ZbWKwL">
+  <a href="https://www.facebook.com/profile.php?id=100016576718598&mibextid=ZbWKwL" style="padding: 20px;">
     <img src="https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png" alt="Facebook" width="35" height="35">
   </a>
 
-  <a href="mailto:correoaleatorio465@gmail.com">
+  <a href="mailto:correoaleatorio465@gmail.com" style="padding: 20px;">
     <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="35" height="35">
   </a>
 
-  <a href="mailto:macarenacastilloruiz@gmail.com">
+  <a href="mailto:macarenacastilloruiz@gmail.com" style="padding: 20px;">
     <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="35" height="35">
   </a>
 </div>
 
 ---
-
-Si está interesado en colaborar, tiene alguna pregunta o simplemente quiere conectarse, le extiendo una cordial invitación para visitar mi perfil de linkedin. También, puede comunicarse conmigo vía email.
-
-- [LinkedIn](https://www.linkedin.com/in/macarena-sneider-48b4a2294/)
-- correoaleatorio465@gmail.com 
-- macarenacastilloruiz@gmail.com 
 
 ### ¡Gracias por visitar mi Perfil y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀
 
