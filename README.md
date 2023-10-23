@@ -130,7 +130,7 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; width: 100%; text-align: center;">
   <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294/" style="text-decoration: none;">
-    <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="LinkedIn" width="35" height="35">
+    <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="LinkedIn" width="35" height="35" padding="20">
   </a>
 
   <a href="https://www.instagram.com/age_ntek/" style="text-decoration: none;">
