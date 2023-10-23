@@ -119,25 +119,25 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 ---
 
 <div align="center" style="text-align: center;">
-  <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294">
+
+<a href="mailto:correoaleatorio465@gmail.com" style="margin-right: 30px;">
+    <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="55" height="55">
+</a>
+<a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294" style="margin-right: 30px;">
     <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="LinkedIn" width="55" height="55">
-  </a>
+</a>
 
-  <a href="https://www.instagram.com/age_ntek">
-    <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="Instagram" width="55" height="55" margin="20">
-  </a>
+<a href="https://www.instagram.com/age_ntek" style="margin-right: 30px;">
+    <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="Instagram" width="55" height="55">
+</a>
   
-  <a href="https://www.facebook.com/profile.php?id=100016576718598&mibextid=ZbWKwL">
+<a href="https://www.facebook.com/profile.php?id=100016576718598&mibextid=ZbWKwL" style="margin-right: 30px;">
     <img src="https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png" alt="Facebook" width="55" height="55">
-  </a>
-
-  <a href="mailto:correoaleatorio465@gmail.com">
+</a>
+  
+<a href="mailto:macarenacastilloruiz@gmail.com" style="margin-right: 30px;">
     <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="55" height="55">
-  </a>
-
-  <a href="mailto:macarenacastilloruiz@gmail.com">
-    <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="55" height="55">
-  </a>
+</a>
 </div>
 
 ### <div align="center" style="text-align: center;">🍀 ¡Gracias por visitar mi Perfil y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀</div>
