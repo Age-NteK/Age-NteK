@@ -106,6 +106,8 @@ Desarrollé una aplicación para explorar y filtrar personajes de **[Rick and Mo
 
 Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario. Implementé funciones de búsqueda, filtrado y ordenamiento de países para facilitar la búsqueda de información. Establecí procesos seguros de inicio de sesión y registro, y diseñé rutas en el backend. Utilicé Redux para gestionar estados y garantizar una navegación fluida. 
 
+---
+
 # <div align="center" style="text-align: center;">**⚜️ Habilidades Técnicas ⚜️**</div>
 
 - **Investigación Tecnológica** continua para mantenerse actualizado.
