@@ -18,43 +18,43 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" alt="git" width="55" height="55"/>
 </a>
 <a href="https://www.hostinger.es/tutoriales/que-es-github" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png" alt="github" width="50" height="50" margin-top="10"/>
+    <img src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png" alt="github" width="55" height="55" margin-top="10"/>
 </a>
 <a href="https://nodejs.org/es/docs" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="git" width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="git" width="55" height="55"/>
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="55" height="55"/>
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css3" width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css3" width="55" height="55"/>
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55"/>
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="css3" width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="css3" width="55" height="55"/>
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="55" height="55"/>
 </a>
 <a href="https://es.redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="55" height="55"/>
 </a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="nextjs" width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="nextjs" width="55" height="55"/>
 </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png" alt="postgresql" width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png" alt="postgresql" width="55" height="55"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" alt="mysql" width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" alt="mysql" width="55" height="55"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_mongodb_icon_129879.png" alt="mongodb" width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_mongodb_icon_129879.png" alt="mongodb" width="55" height="55"/>
 </a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="55" height="55"/>
 </a>
 </p>
 
