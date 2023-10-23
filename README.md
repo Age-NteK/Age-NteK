@@ -160,9 +160,7 @@ Le extiendo una cálida invitación para ponerse en contacto. Estoy a su disposi
 
 ---
 
-# **Macarena Castillo Ruiz - Full Stack Developer**
-
-## **⚜️ About Me ⚜️**
+# **⚜️ About Me ⚜️**
 
 Hello! My name is **Macarena**, and I'm a Full Stack Developer. I invite you to explore my profile, where you'll find a detailed summary of my technical skills, notable projects, and competencies in the tech field. My focus on continuous improvement, creativity, and user experience ensures high-performance solutions. I hope you enjoy discovering how we can create something exceptional together. **I look forward to working with you!**
 
@@ -172,54 +170,51 @@ In my pursuit of **professional excellence**, I stand out for my interpersonal s
 
 As a passionate and adaptable **collaborator**, I am confident that I can bring **exceptional value** to any team and project. I am committed and excited to tackle new challenges, and I'm sure that by joining forces, we will achieve impactful results and **exceed expectations**.
 
-## **👩‍💻 Technical Skills 👩‍💻**
+---
 
 <p align="center" style="text-align: center;">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" alt="git" width="40" height="40"/>
+</a>
+<a href="https://www.hostinger.es/tutoriales/que-es-github" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png" alt="github" width="40" height="40" margin-top="10"/>
+</a>
+<a href="https://nodejs.org/es/docs" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="git" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-    </a>
+</a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="40" height="40"/>
+</a>
+<a href="https://es.redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="40" height="40"/>
+</a>
+<a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="nextjs" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png" alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_mongodb_icon_129879.png" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+</a>
 </p>
 
 - JavaScript (ES6+)
@@ -231,43 +226,46 @@ As a passionate and adaptable **collaborator**, I am confident that I can bring 
 - Bootstrap
 - React
 - Redux
-- UI/UX Design
+- Diseño UI/UX
 - Express.js
 - Sequelize
 - PostgreSQL
+- MongoDb
 - Jest
 
-## **⭐ Projects ⭐**
+---
 
-**[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**
+# **⭐ Projects ⭐**
+
+## **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**
 
 Gamer Galaxy is an innovative web application that guides tech enthusiasts in customizing their own computers. It implements a REST API for future integrations and scalability, using technologies like React, Sequelize, Tailwind CSS, and Express with SQL and PostgreSQL on the backend. It offers a seamless experience with user authentication, a shopping cart, and a secure payment platform. Additionally, it includes search filters, detailed information, and high-quality photos.
 
 ![image](https://github.com/Age-NteK/GAMER-GALAXY/assets/107895191/af821063-0f31-444f-a199-4be6a7aebde8)
 
-**[Food](https://github.com/Age-NteK/FOOD.git)**
+## **[Food](https://github.com/Age-NteK/FOOD.git)**
 
 The FOOD recipe platform uses Sequelize to manage data and establish strong relationships. I implemented advanced search methods, intuitive workflows for creating diets and recipes, and maintained data accuracy through form validations and efficient content management options. I incorporated a custom error page to enhance the user experience on non-existent routes.
 
 ![image](https://github.com/Age-NteK/FOOD/assets/107895191/cd20b38c-97cb-44ba-ad73-dbd4210f00ce)
 
-**[Maybelline](https://github.com/Age-NteK/MAYBELLYNE.git)**
+## **[Maybelline](https://github.com/Age-NteK/MAYBELLYNE.git)**
 
 I developed an exciting beauty application with a detailed Maybelline product catalog for shopping, a functional shopping cart system, secure user authentication through Auth0, and a Mercado Pago payment gateway. It also includes an educational section with product tutorials and beauty tips. I also implemented a REST API for future integrations and scalability.
 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/a89eab4a-519c-494a-8218-d05c092ac1e3)
 
-**[Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)**
+## **[Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)**
 
 I developed an application to explore and filter "Rick and Morty" characters, with favorite functions and sorting options. I integrated user authentication, using Redux for state management. On the back end, I configured routes to retrieve data and interactions like favorites, as well as sorting options, providing a seamless experience.
 
 ![image](https://github.com/Age-NteK/RickAndMorty/assets/107895191/f90f8410-69cd-448b-b7fc-afef9b1a42cb)
 
-**[Countries](https://github.com/Age-NteK/PI-COUNTRIES.git)**
+## **[Countries](https://github.com/Age-NteK/PI-COUNTRIES.git)**
 
 I developed the Countries Application, focusing on the user experience. I implemented country search, filtering, and sorting functions to facilitate information retrieval. I established secure login and registration processes and designed routes on the backend. I used Redux to manage states and ensure smooth navigation.
 
-## **👩‍💻 Technical Competencies 👩‍💻**
+# **👩‍💻 Technical Competencies 👩‍💻**
 
 - Continuous **Technological Research** to stay updated.
 - Comprehensive **Requirements Analysis** for precise project execution.
@@ -291,7 +289,7 @@ I developed the Countries Application, focusing on the user experience. I implem
 - Leveraging **Advanced Technical Knowledge** for robust solutions.
 - Creating **Innovative Solutions** that push boundaries.
 
-## ☎️ Contact me ☎️
+# ☎️ Contact me ☎️
 
 I extend a warm invitation to get in touch. I'm at your disposal for any inquiries or collaboration.
 
