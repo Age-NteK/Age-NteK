@@ -126,6 +126,13 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 
 ## ☎️ Contacto ☎️
 
+### Mis redes sociales
+
+[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/linkedin.png' alt='LinkedIn' width='24' style='width:24px; margin-right: 10px;'/>](https://www.linkedin.com/in/macarena-sneider-48b4a2294/)
+[<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png' alt='instagram' width='24' style='width:24px; margin-right: 10px;'/>](https://www.instagram.com/age_ntek/)
+
+---
+
 Si está interesado en colaborar, tiene alguna pregunta o simplemente quiere conectarse, le extiendo una cordial invitación para visitar mi perfil de linkedin. También, puede comunicarse conmigo vía email.
 
 - [LinkedIn](https://www.linkedin.com/in/macarena-sneider-48b4a2294/)
