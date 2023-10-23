@@ -137,14 +137,15 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
     <img src="https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png" alt="instagram" width="24" style="width: 24px; margin-right: 10px;">
   </a>
 
-  <a href="mailto:correoaleatorio465@gmail.com">
+  <a href="mailto:correoaleatorio465@gmail.com" style="text-decoration: none;">
     <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" alt="Gmail Icon" width="35" height="35">
   </a>
 
-  <a href="mailto:macarenacastilloruiz@gmail.com">
+  <a href="mailto:macarenacastilloruiz@gmail.com" style="text-decoration: none;">
     <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" alt="Gmail Icon" width="35" height="35">
   </a>
 </div>
+Ahora, con text-decoration: none, los enlaces no mostrarán subrayados ni ningún otro estilo de decoración de texto.
 
 ---
 
