@@ -178,6 +178,8 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 
 ---
 
+![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/a3a2f514-bd9c-4519-b0f6-3bad2fe51825)
+
 <table align="center" style="text-align: center;">
     <tr>
         <td>
