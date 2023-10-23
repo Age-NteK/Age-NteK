@@ -126,7 +126,7 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 
 ## ☎️ Contacto ☎️
 
-Si está interesado en colaborar, tiene alguna pregunta o simplemente quiere conectarse, le extiendo una cordial invitación para visitar mi perfil de linkedin. También, puede comunicarse conmigo vía email.
+Le extiendo una cálida invitación para ponerse en contacto. Estoy a su disposición para cualquier consulta o colaboración.
 
 <div align="center" style="text-align: center;">
   <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294">
@@ -277,10 +277,30 @@ I developed the Countries Application, focusing on the user experience. I implem
 
 ## ☎️ Contact ☎️
 
-If you are interested in collaborating, have any questions, or just want to connect, I extend a warm invitation to visit my LinkedIn profile. You can also reach out to me via email.
+I extend a warm invitation to get in touch. I'm at your disposal for any inquiries or collaboration.
 
-- [LinkedIn](https://www.linkedin.com/in/macarena-sneider-48b4a2294/)
-- correoaleatorio465@gmail.com 
-- macarenacastilloruiz@gmail.com 
+<div align="center" style="text-align: center;">
+  <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294">
+    <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="LinkedIn" width="35" height="35" margin="20">
+  </a>
+
+  <a href="https://www.instagram.com/age_ntek">
+    <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="Instagram" width="35" height="35" margin="20">
+  </a>
+  
+  <a href="https://www.facebook.com/profile.php?id=100016576718598&mibextid=ZbWKwL">
+    <img src="https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png" alt="Facebook" width="35" height="35" margin="20">
+  </a>
+
+  <a href="mailto:correoaleatorio465@gmail.com">
+    <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="35" height="35" margin="20">
+  </a>
+
+  <a href="mailto:macarenacastilloruiz@gmail.com">
+    <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="35" height="35" margin="20">
+  </a>
+</div>
+
+---
 
 ### Thank you for visiting my profile and being a part of my learning journey in the world of technology! 🍀
