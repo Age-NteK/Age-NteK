@@ -78,8 +78,6 @@
 
 ---
 
-# <div align="center" style="text-align: center;">**⚜️ Perfil ⚜️**</div>
-
 ¡Hola! Mi nombre es **Macarena** y soy **Desarrolladora Full Stack**. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, **proyectos destacados** y competencias en el ámbito tecnológico. Mi enfoque en la **mejora continua**, la creatividad y la **experiencia del usuario** garantizan soluciones de **alto rendimiento**. Espero que disfrutes descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
 
 ![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/60c89a3a-f304-4298-bde0-01a57c536431)
