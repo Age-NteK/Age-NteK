@@ -131,7 +131,7 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/linkedin.png' alt='LinkedIn' width='24' style='width:24px; margin-right: 10px;'/>](https://www.linkedin.com/in/macarena-sneider-48b4a2294/)
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png' alt='instagram' width='24' style='width:24px; margin-right: 10px;'/>](https://www.instagram.com/age_ntek/)
 <a href="mailto:correoaleatorio465@gmail.com">
-    <img src='[URL_DE_TU_ICONO_DE_EMAIL](https://www.google.com/search?q=gmail&sca_esv=575862859&rlz=1C1ALOY_esAR954AR954&tbm=isch&sxsrf=AM9HkKlzrDW-GOaJ3E3DI6tK8z1CWabgbQ:1698087997134&source=lnms&sa=X&ved=2ahUKEwjN_fbe7oyCAxWrA7kGHTpgDp8Q_AUoBHoECAEQBg&biw=1360&bih=657&dpr=1#imgrc=p0BwJ0uiMmavoM)' alt='Email' width='24' style='width:24px; margin-right: 10px;'/>
+    <img src='https://vanesaramos.com/wp-content/uploads/2021/03/logo-gmail-wikipedia-1.jpg' alt='Email' width='24' style='width:24px; margin-right: 10px;'/>
 </a>
 
 ---
