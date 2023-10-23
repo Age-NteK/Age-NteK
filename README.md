@@ -129,15 +129,13 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 ### Mis redes sociales
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; width: 100%; text-align: center;">
+  <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294/" style="text-decoration: none; margin-bottom: 5px;">
+    <img src="https://github.com/lgzarturo/lgzarturo/raw/master/assets/linkedin.png" alt="LinkedIn" width="24" style="width: 24px; margin-right: 10px;">
+  </a>
 
-    <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294/" style="text-decoration: none;">
-      <img src="https://github.com/lgzarturo/lgzarturo/raw/master/assets/linkedin.png" alt="LinkedIn" width="24" style="width: 24px; margin-right: 10px; margin-bottom: 5px;">
-    </a>
-
-    <a href="https://www.instagram.com/age_ntek/" style="text-decoration: none;">
-      <img src="https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png" alt="instagram" width="24" style="width: 24px; margin-right: 10px; margin-bottom: 5px;">
-    </a>
-
+  <a href="https://www.instagram.com/age_ntek/" style="text-decoration: none; margin-bottom: 5px;">
+    <img src="https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png" alt="instagram" width="24" style="width: 24px; margin-right: 10px;">
+  </a>
 
   <a href="mailto:correoaleatorio465@gmail.com" style="text-decoration: none;">
     <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" alt="Gmail Icon" width="35" height="35">
