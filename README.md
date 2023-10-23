@@ -118,7 +118,7 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 
 ---
 
-# <div align="center" style="text-align: center;">☎️ Contácteme ☎️</div>
+### <div align="center" style="text-align: center;">☎️ Contácteme ☎️</div>
 
 <div align="center" style="text-align: center;">
   <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294">
