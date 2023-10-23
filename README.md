@@ -128,21 +128,21 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 
 ### Mis redes sociales
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; width: 100%; text-align: center;">
+<div style="display: flex; flex-direction: column; justify-content: space-around; align-items: center; height: 100vh; width: 100%; text-align: center;">
   <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294/" style="text-decoration: none;">
-    <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="LinkedIn" width="35" height="35" padding="20">
+    <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="LinkedIn" width="35" height="35">
   </a>
 
   <a href="https://www.instagram.com/age_ntek/" style="text-decoration: none;">
-    <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="instagram" width="35" height="35">
+    <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="Instagram" width="35" height="35">
   </a>
 
   <a href="mailto:correoaleatorio465@gmail.com" style="text-decoration: none;">
-    <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Icon" width="35" height="35">
+    <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="35" height="35">
   </a>
 
   <a href="mailto:macarenacastilloruiz@gmail.com" style="text-decoration: none;">
-    <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Icon" width="35" height="35">
+    <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="35" height="35">
   </a>
 </div>
 
