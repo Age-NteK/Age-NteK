@@ -58,53 +58,51 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 </a>
 </p>
 
-<div align="center" style="text-align: center;">
-  <ul>
-    <li>JavaScript (ES6+)</li>
-    <li>Git</li>
-    <li>GitHub</li>
-    <li>Node.js</li>
-    <li>HTML5</li>
-    <li>CSS</li>
-    <li>Bootstrap</li>
-    <li>React</li>
-    <li>Redux</li>
-    <li>Diseño UI/UX</li>
-    <li>Express.js</li>
-    <li>Sequelize</li>
-    <li>PostgreSQL</li>
-    <li>MongoDB</li>
-    <li>Jest</li>
-  </ul>
-</div>
+- JavaScript (ES6+)
+- Git
+- GitHub
+- Node.js
+- HTML5
+- CSS
+- Bootstrap
+- React
+- Redux
+- Diseño UI/UX
+- Express.js
+- Sequelize
+- PostgreSQL
+- MongoDb
+- Jest
+
+---
 
 # <div align="center" style="text-align: center;">**⚜️ Proyectos ⚜️**</div>
 
-## <div align="center" style="text-align: center;">**[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**</div>
+## **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**
 
 Llevé a cabo una aplicación web innovadora que guía a los entusiastas de la tecnología en la creación personalizada de sus computadoras llamada **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**. Implementa una API REST para futuras integraciones y escalabilidad, utilizando tecnologías como React, Sequelize, Tailwind CSS y Express con SQL y PostgreSQL en el backend. Ofrece una experiencia fluida con autenticación de usuarios, carrito de compras y plataforma de pago segura. Además, incluye filtros de búsqueda, información detallada y fotos de alta calidad.
 
 ![image](https://github.com/Age-NteK/GAMER-GALAXY/assets/107895191/af821063-0f31-444f-a199-4be6a7aebde8)
 
-## <div align="center" style="text-align: center;">**[Food](https://github.com/Age-NteK/FOOD.git)**</div>
+## **[Food](https://github.com/Age-NteK/FOOD.git)**
 
 La plataforma de recetas **[Food](https://github.com/Age-NteK/FOOD.git)**, utiliza Sequelize para gestionar datos y establecer relaciones sólidas. Implementé métodos de búsqueda avanzados, flujos de trabajo intuitivos para crear dietas y recetas, y mantuve la coherencia de la información con actualizaciones. Garanticé la precisión de datos mediante validaciones de formularios y opciones de gestión eficiente del contenido. Incorporé una página de error personalizada para mejorar la experiencia del usuario en rutas inexistentes. 
 
 ![image](https://github.com/Age-NteK/FOOD/assets/107895191/cd20b38c-97cb-44ba-ad73-dbd4210f00ce)
 
-## <div align="center" style="text-align: center;">**[Maybelline](https://github.com/Age-NteK/MAYBELLYNE.git)**</div>
+## **[Maybelline](https://github.com/Age-NteK/MAYBELLYNE.git)**
 
 Desarrollé una emocionante aplicación de belleza con un catálogo de productos detallado de **[Maybelline](https://github.com/Age-NteK/MAYBELLYNE.git)** para compras, un sistema de carrito de compras funcional, autenticación segura de usuarios a través de Auth0, y una pasarela de pago de Mercado Pago. Además, incluye una sección educativa de tutoriales sobre productos y consejos de belleza. También implementé una API REST para futuras integraciones y escalabilidad. 
 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/a89eab4a-519c-494a-8218-d05c092ac1e3)
 
-## <div align="center" style="text-align: center;">**[Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)**</div>
+## **[Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)**
 
 Desarrollé una aplicación para explorar y filtrar personajes de **[Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)**, con funciones de favoritos y ordenamiento. Integré autenticación de usuarios, utilizando Redux para la gestión del estado. En el Back-end, configuré rutas para recuperar datos e interacciones como favoritos , así como opciones de ordenamiento, ofreciendo una experiencia fluida. 
 
 ![image](https://github.com/Age-NteK/RickAndMorty/assets/107895191/f90f8410-69cd-448b-b7fc-afef9b1a42cb)
 
-## <div align="center" style="text-align: center;">**[Countries](https://github.com/Age-NteK/PI-COUNTRIES.git)**</div>
+## **[Countries](https://github.com/Age-NteK/PI-COUNTRIES.git)**
 
 Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario. Implementé funciones de búsqueda, filtrado y ordenamiento de países para facilitar la búsqueda de información. Establecí procesos seguros de inicio de sesión y registro, y diseñé rutas en el backend. Utilicé Redux para gestionar estados y garantizar una navegación fluida. 
 
