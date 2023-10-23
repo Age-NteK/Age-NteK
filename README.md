@@ -78,8 +78,6 @@
 
 ¡Hola! Mi nombre es **Macarena** y soy **Desarrolladora Full Stack**. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, **proyectos destacados** y competencias en el ámbito tecnológico. Mi enfoque en la **mejora continua**, la creatividad y la **experiencia del usuario** garantizan soluciones de **alto rendimiento**. Espero que disfrutes descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
 
-![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/c90e5488-a349-46d7-9702-7a6b43e87893)
-
 En mi búsqueda de la **excelencia profesional**, destaco por mis habilidades interpersonales que han demostrado ser una pieza clave para el éxito en **proyectos colaborativos**. Mi compromiso con la **comunicación clara y efectiva** ha permitido participar en equipos de manera fluida. 
 
 Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo aportar un **valor excepcional** a cualquier equipo y proyecto. Estoy comprometida y emocionada por enfrentar nuevos desafíos y estoy segura de que, al unir fuerzas, lograremos resultados impactantes y **sobrepasaremos las expectativas**. 
