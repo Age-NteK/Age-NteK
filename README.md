@@ -80,6 +80,7 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 
 # <div align="center" style="text-align: center;">**⚜️ Proyectos ⚜️**</div>
 
+---
 ## **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**
 
 Llevé a cabo una aplicación web innovadora que guía a los entusiastas de la tecnología en la creación personalizada de sus computadoras llamada **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**. Implementa una API REST para futuras integraciones y escalabilidad, utilizando tecnologías como React, Sequelize, Tailwind CSS y Express con SQL y PostgreSQL en el backend. Ofrece una experiencia fluida con autenticación de usuarios, carrito de compras y plataforma de pago segura. Además, incluye filtros de búsqueda, información detallada y fotos de alta calidad.
