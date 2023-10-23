@@ -86,6 +86,8 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
     </tr>
 </table>
 
+---
+
 # <div align="center" style="text-align: center;">**⚜️ Proyectos ⚜️**</div>
 
 ## **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**
