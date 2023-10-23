@@ -241,17 +241,25 @@ As a passionate and adaptable **collaborator**, I am confident that I can bring 
 
 Gamer Galaxy is an innovative web application that guides tech enthusiasts in customizing their own computers. It implements a REST API for future integrations and scalability, using technologies like React, Sequelize, Tailwind CSS, and Express with SQL and PostgreSQL on the backend. It offers a seamless experience with user authentication, a shopping cart, and a secure payment platform. Additionally, it includes search filters, detailed information, and high-quality photos.
 
+![image](https://github.com/Age-NteK/GAMER-GALAXY/assets/107895191/af821063-0f31-444f-a199-4be6a7aebde8)
+
 **[Food](https://github.com/Age-NteK/FOOD.git)**
 
 The FOOD recipe platform uses Sequelize to manage data and establish strong relationships. I implemented advanced search methods, intuitive workflows for creating diets and recipes, and maintained data accuracy through form validations and efficient content management options. I incorporated a custom error page to enhance the user experience on non-existent routes.
+
+![image](https://github.com/Age-NteK/FOOD/assets/107895191/cd20b38c-97cb-44ba-ad73-dbd4210f00ce)
 
 **[Maybelline](https://github.com/Age-NteK/MAYBELLYNE.git)**
 
 I developed an exciting beauty application with a detailed Maybelline product catalog for shopping, a functional shopping cart system, secure user authentication through Auth0, and a Mercado Pago payment gateway. It also includes an educational section with product tutorials and beauty tips. I also implemented a REST API for future integrations and scalability.
 
+![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/a89eab4a-519c-494a-8218-d05c092ac1e3)
+
 **[Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)**
 
 I developed an application to explore and filter "Rick and Morty" characters, with favorite functions and sorting options. I integrated user authentication, using Redux for state management. On the back end, I configured routes to retrieve data and interactions like favorites, as well as sorting options, providing a seamless experience.
+
+![image](https://github.com/Age-NteK/RickAndMorty/assets/107895191/f90f8410-69cd-448b-b7fc-afef9b1a42cb)
 
 **[Countries](https://github.com/Age-NteK/PI-COUNTRIES.git)**
 
