@@ -1,16 +1,6 @@
 
 ![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/a3a2f514-bd9c-4519-b0f6-3bad2fe51825)
 
-# <div align="center" style="text-align: center;">**⚜️ Perfil ⚜️**</div>
-
-¡Hola! Mi nombre es **Macarena** y soy **Desarrolladora Full Stack**. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, **proyectos destacados** y competencias en el ámbito tecnológico. Mi enfoque en la **mejora continua**, la creatividad y la **experiencia del usuario** garantizan soluciones de **alto rendimiento**. Espero que disfrutes descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
-
-![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/60c89a3a-f304-4298-bde0-01a57c536431)
-
-En mi búsqueda de la **excelencia profesional**, destaco por mis habilidades interpersonales que han demostrado ser una pieza clave para el éxito en **proyectos colaborativos**. Mi compromiso con la **comunicación clara y efectiva** ha permitido participar en equipos de manera fluida. 
-
-Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo aportar un **valor excepcional** a cualquier equipo y proyecto. Estoy comprometida y emocionada por enfrentar nuevos desafíos y estoy segura de que, al unir fuerzas, lograremos resultados impactantes y **sobrepasaremos las expectativas**. 
-
 <table align="center" style="text-align: center;">
     <tr>
         <td>
@@ -85,6 +75,18 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
         </td>
     </tr>
 </table>
+
+---
+
+# <div align="center" style="text-align: center;">**⚜️ Perfil ⚜️**</div>
+
+¡Hola! Mi nombre es **Macarena** y soy **Desarrolladora Full Stack**. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, **proyectos destacados** y competencias en el ámbito tecnológico. Mi enfoque en la **mejora continua**, la creatividad y la **experiencia del usuario** garantizan soluciones de **alto rendimiento**. Espero que disfrutes descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
+
+![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/60c89a3a-f304-4298-bde0-01a57c536431)
+
+En mi búsqueda de la **excelencia profesional**, destaco por mis habilidades interpersonales que han demostrado ser una pieza clave para el éxito en **proyectos colaborativos**. Mi compromiso con la **comunicación clara y efectiva** ha permitido participar en equipos de manera fluida. 
+
+Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo aportar un **valor excepcional** a cualquier equipo y proyecto. Estoy comprometida y emocionada por enfrentar nuevos desafíos y estoy segura de que, al unir fuerzas, lograremos resultados impactantes y **sobrepasaremos las expectativas**. 
 
 ---
 
