@@ -131,7 +131,7 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/linkedin.png' alt='LinkedIn' width='24' style='width:24px; margin-right: 10px;'/>](https://www.linkedin.com/in/macarena-sneider-48b4a2294/)
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png' alt='instagram' width='24' style='width:24px; margin-right: 10px;'/>](https://www.instagram.com/age_ntek/)
 <a href="mailto:correoaleatorio465@gmail.com">
-    <img src='https://s1.eestatic.com/2020/07/16/elandroidelibre/el_androide_libre_505712311_179471682_1706x960.jpg' alt='Email' width='24' style='width:24px; margin-right: 10px;'/>
+    <img src='https://s1.eestatic.com/2020/07/16/elandroidelibre/el_androide_libre_505712311_179471682_1706x960.jpg' alt='Email' width='35' style='width:35px; margin-right: 35px;'/>
 </a>
 
 ---
