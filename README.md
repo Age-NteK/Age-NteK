@@ -131,7 +131,7 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/linkedin.png' alt='LinkedIn' width='24' style='width:24px; margin-right: 10px;'/>](https://www.linkedin.com/in/macarena-sneider-48b4a2294/)
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png' alt='instagram' width='24' style='width:24px; margin-right: 10px;'/>](https://www.instagram.com/age_ntek/)
 <a href="mailto:correoaleatorio465@gmail.com">
-  <img src="https://www.flaticon.es/icono-gratis/gmail_5968534?term=gmail&page=1&position=4&origin=search&related_id=5968534" alt="Gmail Icon" width="24" height="24">
+  <img src="https://icons8.com/icons/set/gmail" alt="Gmail Icon" width="24" height="24">
 </a>
 
 ---
