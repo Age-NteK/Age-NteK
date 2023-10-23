@@ -132,7 +132,7 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 - Aprovechamiento de **Conocimientos Técnicos Avanzados** para soluciones sólidas.
 - Creación de **Soluciones Innovadoras** que traspasan los límites.
 
-## ☎️ Contacto ☎️
+## ☎️ Contácteme ☎️
 
 Le extiendo una cálida invitación para ponerse en contacto. Estoy a su disposición para cualquier consulta o colaboración.
 
@@ -293,7 +293,7 @@ I developed the Countries Application, focusing on the user experience. I implem
 - Leveraging **Advanced Technical Knowledge** for robust solutions.
 - Creating **Innovative Solutions** that push boundaries.
 
-## ☎️ Contact ☎️
+## ☎️ Contact me ☎️
 
 I extend a warm invitation to get in touch. I'm at your disposal for any inquiries or collaboration.
 
