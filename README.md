@@ -130,11 +130,8 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/linkedin.png' alt='LinkedIn' width='24' style='width:24px; margin-right: 10px;'/>](https://www.linkedin.com/in/macarena-sneider-48b4a2294/)
 [<img src='https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png' alt='instagram' width='24' style='width:24px; margin-right: 10px;'/>](https://www.instagram.com/age_ntek/)
-<a href="mailto:correoaleatorio465@gmail.com">
- ![gmail](https://github.com/Age-NteK/Age-NteK/assets/107895191/eee93005-6ed2-4437-a5f9-8355978e560a)
-</a>
-<a href="mailto:correoaleatorio465@gmail.com" style="text-decoration: none; color: #000; font-weight: bold; font-size: 16px;">
-  ![gmail](https://github.com/Age-NteK/Age-NteK/assets/107895191/c16cfa89-7073-4bf3-951c-811b6c06ea85)
+<a href="mailto:correoaleatorio465@gmail.com" style="width: 24px; height: 24px;">
+   ![gmail](https://github.com/Age-NteK/Age-NteK/assets/107895191/c16cfa89-7073-4bf3-951c-811b6c06ea85)
 </a>
 ---
 
