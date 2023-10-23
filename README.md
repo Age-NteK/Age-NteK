@@ -148,7 +148,7 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
     </tr>
 </table>
 
-### <div align="center" style="text-align: center;">🍀 ¡Gracias por visitar mi Perfil y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀</div>
+### <div align="center" style="text-align: center;">☎️ Me complace invitarlo a conectarnos y entablar un diálogo en el que podamos explorar cómo puedo contribuir a su éxito ☎️</div>
 
 ---
 
