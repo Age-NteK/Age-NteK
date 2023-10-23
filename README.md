@@ -150,7 +150,7 @@ Le extiendo una cálida invitación para ponerse en contacto. Estoy a su disposi
   </a>
 </div>
 
-### ¡Gracias por visitar mi Perfil y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀
+### 🍀 ¡Gracias por visitar mi Perfil y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀
 
 ---
 
@@ -301,4 +301,4 @@ I extend a warm invitation to get in touch. I'm at your disposal for any inquiri
   </a>
 </div>
 
-### Thank you for visiting my profile and being a part of my learning journey in the world of technology! 🍀
+### 🍀 Thank you for visiting my profile and being a part of my learning journey in the world of technology! 🍀
