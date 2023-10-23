@@ -80,7 +80,7 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 
 ## **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**
 
-[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git) es una aplicación web innovadora que guía a los entusiastas de la tecnología en la creación personalizada de sus computadoras. Implementa una API REST para futuras integraciones y escalabilidad, utilizando tecnologías como React, Sequelize, Tailwind CSS y Express con SQL y PostgreSQL en el backend. Ofrece una experiencia fluida con autenticación de usuarios, carrito de compras y plataforma de pago segura. Además, incluye filtros de búsqueda, información detallada y fotos de alta calidad.
+Llevé a cabo una aplicación web innovadora que guía a los entusiastas de la tecnología en la creación personalizada de sus computadoras llamada [Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git) . Implementa una API REST para futuras integraciones y escalabilidad, utilizando tecnologías como React, Sequelize, Tailwind CSS y Express con SQL y PostgreSQL en el backend. Ofrece una experiencia fluida con autenticación de usuarios, carrito de compras y plataforma de pago segura. Además, incluye filtros de búsqueda, información detallada y fotos de alta calidad.
 
 ![image](https://github.com/Age-NteK/GAMER-GALAXY/assets/107895191/af821063-0f31-444f-a199-4be6a7aebde8)
 
