@@ -354,10 +354,8 @@ I developed the Countries Application, focusing on user experience. I implemente
 </table>
 
 ### <div align="center" style="text-align: center;">☎️ Contact me, and let's explore how I can contribute to your company's success! ☎️</div>
-  <a href="mailto:macarenacastilloruiz@gmail.com">
-    <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="35" height="35" margin="20">
-  </a>
-</div>
+
+---
 
 ### <div align="center" style="text-align: center;">🍀 Thank you for visiting my profile and being part of my learning journey in the world of technology! 🍀</div>
 
