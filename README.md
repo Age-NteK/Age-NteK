@@ -24,7 +24,7 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" alt="git" width="40" height="40"/>
 </a>
 <a href="https://www.hostinger.es/tutoriales/que-es-github" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" alt="git" width="55" height="55"/>
+    <img src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" alt="git" width="55" height="55" style="margin-bottom: -10px;"/>
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="40" height="40"/>
