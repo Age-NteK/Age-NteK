@@ -138,11 +138,11 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
   </a>
 
   <a href="mailto:correoaleatorio465@gmail.com" style="text-decoration: none;">
-    <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" alt="Gmail Icon" width="35" height="35">
+    <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Icon" width="24" height="24">
   </a>
 
   <a href="mailto:macarenacastilloruiz@gmail.com" style="text-decoration: none;">
-    <img src="https://cdn.icon-icons.com/icons2/41/PNG/128/new_mail_gmailmessage_7038.png" alt="Gmail Icon" width="35" height="35">
+    <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Icon" width="24" height="24">
   </a>
 </div>
 
