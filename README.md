@@ -132,9 +132,7 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 
 ---
 
-## ☎️ Contácteme ☎️
-
-Le extiendo una cálida invitación para ponerse en contacto. Estoy a su disposición para cualquier consulta o colaboración.
+## ☎️ Le extiendo una cálida invitación para ponerse en contacto ☎️
 
 <div align="center" style="text-align: center;">
   <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294">
