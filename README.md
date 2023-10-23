@@ -118,11 +118,9 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 
 ---
 
-### <div align="center" style="text-align: center;">☎️ Contácteme ☎️</div>
-
 <div align="center" style="text-align: center;">
   <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294">
-    <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="LinkedIn" width="55" height="35" margin="55">
+    <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="LinkedIn" width="55" height="55">
   </a>
 
   <a href="https://www.instagram.com/age_ntek">
