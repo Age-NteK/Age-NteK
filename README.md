@@ -135,6 +135,9 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 ![gmailicon](https://github.com/Age-NteK/Age-NteK/assets/107895191/4dc62bb1-f52e-4e59-9d83-ba2bafb7b564)
 
 </a>
+
+![gmailicon](https://github.com/Age-NteK/Age-NteK/assets/107895191/6acf7a13-f513-4539-9b3c-f90ae0fc2595)
+
 ---
 
 Si está interesado en colaborar, tiene alguna pregunta o simplemente quiere conectarse, le extiendo una cordial invitación para visitar mi perfil de linkedin. También, puede comunicarse conmigo vía email.
