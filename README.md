@@ -172,4 +172,4 @@ If you are interested in collaborating, have any questions, or just want to conn
 - correoaleatorio465@gmail.com 
 - macarenacastilloruiz@gmail.com 
 
-### ** Thank you for visiting my profile and being a part of my learning journey in the world of technology! 🍀**
+### Thank you for visiting my profile and being a part of my learning journey in the world of technology! 🍀
