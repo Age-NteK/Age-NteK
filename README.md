@@ -130,6 +130,8 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 - Aprovechamiento de **Conocimientos Técnicos Avanzados** para soluciones sólidas.
 - Creación de **Soluciones Innovadoras** que traspasan los límites.
 
+---
+
 ## ☎️ Contácteme ☎️
 
 Le extiendo una cálida invitación para ponerse en contacto. Estoy a su disposición para cualquier consulta o colaboración.
@@ -158,7 +160,6 @@ Le extiendo una cálida invitación para ponerse en contacto. Estoy a su disposi
 
 ### 🍀 ¡Gracias por visitar mi Perfil y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀
 
----
 ---
 
 # **⚜️ About Me ⚜️**
@@ -290,6 +291,8 @@ I developed the Countries Application, focusing on the user experience. I implem
 - Leveraging **Advanced Technical Knowledge** for robust solutions.
 - Creating **Innovative Solutions** that push boundaries.
 
+---
+
 # ☎️ Contact me ☎️
 
 I extend a warm invitation to get in touch. I'm at your disposal for any inquiries or collaboration.
@@ -317,3 +320,4 @@ I extend a warm invitation to get in touch. I'm at your disposal for any inquiri
 </div>
 
 ### 🍀 Thank you for visiting my profile and being a part of my learning journey in the world of technology! 🍀
+---
