@@ -58,9 +58,9 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 </a>
 </p>
 
-- JavaScript (ES6+)
-- Git
-- GitHub
+- **JavaScript (ES6+)**
+- **Git**
+- **GitHub**
 - Node.js
 - HTML5
 - CSS
