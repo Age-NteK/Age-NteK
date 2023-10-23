@@ -130,8 +130,9 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 - Aprovechamiento de **Conocimientos Técnicos Avanzados** para soluciones sólidas.
 - Creación de **Soluciones Innovadoras** que traspasan los límites.
 
+---
 
-## ☎️ Contácteme ☎️
+### ☎️ Contácteme ☎️
 
 <div align="center" style="text-align: center;">
   <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294">
