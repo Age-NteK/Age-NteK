@@ -7,7 +7,7 @@
 
 ![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/60c89a3a-f304-4298-bde0-01a57c536431)
 
-En mi búsqueda de la **excelencia profesional**, destaco por mis habilidades interpersonales que han demostrado ser una pieza clave para el éxito en proyectos colaborativos. Mi compromiso con la **comunicación clara y efectiva** ha permitido participar en **equipos** de manera fluida. 
+En mi búsqueda de la **excelencia profesional**, destaco por mis habilidades interpersonales que han demostrado ser una pieza clave para el éxito en **proyectos colaborativos**. Mi compromiso con la **comunicación clara y efectiva** ha permitido participar en equipos de manera fluida. 
 
 Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo aportar un **valor excepcional** a cualquier equipo y proyecto. Estoy comprometida y emocionada por enfrentar nuevos desafíos y estoy segura de que, al unir fuerzas, lograremos resultados impactantes y **sobrepasaremos las expectativas**. 
 
