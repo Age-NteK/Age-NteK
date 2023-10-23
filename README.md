@@ -150,9 +150,9 @@ Le extiendo una cálida invitación para ponerse en contacto. Estoy a su disposi
   </a>
 </div>
 
----
-
 ### ¡Gracias por visitar mi Perfil y por ser parte de mi viaje de aprendizaje en el mundo de la tecnología!🍀
+
+---
 
 # **Macarena Castillo Ruiz - Full Stack Developer**
 
@@ -300,7 +300,5 @@ I extend a warm invitation to get in touch. I'm at your disposal for any inquiri
     <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="35" height="35" margin="20">
   </a>
 </div>
-
----
 
 ### Thank you for visiting my profile and being a part of my learning journey in the world of technology! 🍀
