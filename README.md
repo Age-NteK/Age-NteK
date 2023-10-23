@@ -162,15 +162,15 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 
 ---
 
-# **⚜️ About Me ⚜️**
+# <div align="center" style="text-align: center;">**⚜️ Profile ⚜️**</div>
 
-Hello! My name is **Macarena**, and I'm a Full Stack Developer. I invite you to explore my profile, where you'll find a detailed summary of my technical skills, notable projects, and competencies in the tech field. My focus on continuous improvement, creativity, and user experience ensures high-performance solutions. I hope you enjoy discovering how we can create something exceptional together. **I look forward to working with you!**
+Hello! My name is **Macarena**, and I'm a **Full Stack Developer**. I invite you to explore my profile, where you'll find a detailed summary of my technical skills, **highlighted projects**, and competencies in the technology field. My focus on **continuous improvement**, creativity, and **user experience** ensures high-performance solutions. I hope you enjoy discovering how together we can create something exceptional. **I look forward to working with you!**
 
-![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/d988b142-e7d1-480d-927f-8f5aba61b998)
+![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/60c89a3a-f304-4298-bde0-01a57c536431)
 
-In my pursuit of **professional excellence**, I stand out for my interpersonal skills, which have proven to be a key element for success in collaborative projects. My commitment to **clear and effective communication** has enabled me to smoothly participate in **teams**.
+In my pursuit of **professional excellence**, I stand out for my interpersonal skills, which have proven to be a key component for success in **collaborative projects**. My commitment to **clear and effective communication** has enabled me to work seamlessly in teams.
 
-As a passionate and adaptable **collaborator**, I am confident that I can bring **exceptional value** to any team and project. I am committed and excited to tackle new challenges, and I'm sure that by joining forces, we will achieve impactful results and **exceed expectations**.
+As a **passionate and adaptable collaborator**, I'm confident that I can bring **exceptional value** to any team and project. I'm committed and excited to take on new challenges, and I'm sure that by joining forces, we will achieve impactful results and **exceed expectations**.
 
 ---
 
@@ -228,74 +228,74 @@ As a passionate and adaptable **collaborator**, I am confident that I can bring 
 - Bootstrap
 - React
 - Redux
-- Diseño UI/UX
+- UI/UX Design
 - Express.js
 - Sequelize
 - PostgreSQL
-- MongoDb
+- MongoDB
 - Jest
 
 ---
 
-# **⚜️ Projects ⚜️**
+# <div align="center" style="text-align: center;">**⚜️ Projects ⚜️**</div>
 
 ## **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**
 
-Gamer Galaxy is an innovative web application that guides tech enthusiasts in customizing their own computers. It implements a REST API for future integrations and scalability, using technologies like React, Sequelize, Tailwind CSS, and Express with SQL and PostgreSQL on the backend. It offers a seamless experience with user authentication, a shopping cart, and a secure payment platform. Additionally, it includes search filters, detailed information, and high-quality photos.
+I carried out an innovative web application that guides technology enthusiasts in the custom creation of their computers, called **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**. It implements a REST API for future integrations and scalability, using technologies like React, Sequelize, Tailwind CSS, and Express with SQL and PostgreSQL on the backend. It offers a smooth experience with user authentication, a shopping cart, and a secure payment platform. Additionally, it includes search filters, detailed information, and high-quality photos.
 
 ![image](https://github.com/Age-NteK/GAMER-GALAXY/assets/107895191/af821063-0f31-444f-a199-4be6a7aebde8)
 
 ## **[Food](https://github.com/Age-NteK/FOOD.git)**
 
-The FOOD recipe platform uses Sequelize to manage data and establish strong relationships. I implemented advanced search methods, intuitive workflows for creating diets and recipes, and maintained data accuracy through form validations and efficient content management options. I incorporated a custom error page to enhance the user experience on non-existent routes.
+The **[Food](https://github.com/Age-NteK/FOOD.git)** recipe platform uses Sequelize to manage data and establish strong relationships. I implemented advanced search methods, intuitive workflows to create diets and recipes, and maintained data accuracy with updates. I ensured data precision through form validations and efficient content management options. I incorporated a custom error page to enhance the user experience on non-existent routes.
 
 ![image](https://github.com/Age-NteK/FOOD/assets/107895191/cd20b38c-97cb-44ba-ad73-dbd4210f00ce)
 
 ## **[Maybelline](https://github.com/Age-NteK/MAYBELLYNE.git)**
 
-I developed an exciting beauty application with a detailed Maybelline product catalog for shopping, a functional shopping cart system, secure user authentication through Auth0, and a Mercado Pago payment gateway. It also includes an educational section with product tutorials and beauty tips. I also implemented a REST API for future integrations and scalability.
+I developed an exciting beauty application with a detailed product catalog for **[Maybelline](https://github.com/Age-NteK/MAYBELLYNE.git)** for shopping, a functional shopping cart system, secure user authentication through Auth0, and a Mercado Pago payment gateway. It also includes an educational section with product tutorials and beauty tips. I also implemented a REST API for future integrations and scalability.
 
 ![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/a89eab4a-519c-494a-8218-d05c092ac1e3)
 
 ## **[Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)**
 
-I developed an application to explore and filter "Rick and Morty" characters, with favorite functions and sorting options. I integrated user authentication, using Redux for state management. On the back end, I configured routes to retrieve data and interactions like favorites, as well as sorting options, providing a seamless experience.
+I developed an application to explore and filter characters from **[Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)** with favorite functions and sorting options. I integrated user authentication, using Redux for state management. On the backend, I configured routes to retrieve data and interactions such as favorites, as well as sorting options, offering a smooth experience.
 
 ![image](https://github.com/Age-NteK/RickAndMorty/assets/107895191/f90f8410-69cd-448b-b7fc-afef9b1a42cb)
 
 ## **[Countries](https://github.com/Age-NteK/PI-COUNTRIES.git)**
 
-I developed the Countries Application, focusing on the user experience. I implemented country search, filtering, and sorting functions to facilitate information retrieval. I established secure login and registration processes and designed routes on the backend. I used Redux to manage states and ensure smooth navigation.
-
-# **⚜️ Technical Competencies ⚜️**
-
-- Continuous **Technological Research** to stay updated.
-- Comprehensive **Requirements Analysis** for precise project execution.
-- Creation of **Web Applications** that meet user needs and expectations.
-- Competent in **Design Patterns** and effective **Data Management**.
-- Delivering **High-Performance Solutions** for an optimal user experience.
-- Expertise in creating a robust **Software Architecture**.
-- Driven by **Technological Innovation** to stay at the forefront.
-- **Agile Development** to ensure efficient and iterative progress.
-- **Deployment and Hosting** for seamless user access.
-- Prioritizing **User Experience (UX)** for enhanced engagement.
-- Proficiency in **Agile Methodologies** for optimized development.
-- Mastery of leading **Frontend Frameworks** for optimal development.
-- Skill in efficient **Backend Development** techniques.
-- Database **Management** for data-driven applications.
-- Intuitive **User Interface Design** for improved engagement.
-- Data-driven analysis and effective **Data Visualization**.
-- Sharp **Analytical Thinking** and **Innovative Problem Solving**.
-- Quick **Adoption of New Technologies** to stay competitive.
-- Extensive experience in **Information Technology (IT) Projects** for successful deliveries.
-- Leveraging **Advanced Technical Knowledge** for robust solutions.
-- Creating **Innovative Solutions** that push boundaries.
+I developed the Countries Application, focusing on user experience. I implemented search, filtering, and sorting functions for countries to facilitate information retrieval. I established secure login and registration processes and designed routes on the backend. I used Redux to manage states and ensure smooth navigation.
 
 ---
 
-# ☎️ Contact me ☎️
+# <div align="center" style="text-align: center;">**⚜️ Technical Skills ⚜️**</div>
 
-I extend a warm invitation to get in touch. I'm at your disposal for any inquiries or collaboration.
+- Continuous **Technological Research** to stay updated.
+- Comprehensive **Requirements Analysis** for precise project execution.
+- Creating **Web Applications** that meet user needs and expectations.
+- Competent in **Design Patterns** and effective **Data Management**.
+- Delivering **High-Performance Solutions** for an optimal user experience.
+- Expertise in building a robust **Software Architecture**.
+- Driven by **Technological Innovation** to stay at the forefront.
+- **Agile Development** to ensure efficient and iterative progress.
+- **Deployment and Hosting** for smooth user access.
+- Prioritizing **User Experience (UX)** for enhanced engagement.
+- Mastery of **Agile Methodologies** for optimized development.
+- Proficiency in leading **Frontend Frameworks** for optimal development.
+- Expertise in efficient **Backend Development** techniques.
+- Proficiency in **Database Management** for data-driven applications.
+- Intuitive **User Interface Design** for enhanced engagement.
+- Data analysis and effective **Data Visualization**.
+- Sharp **Analytical Thinking** and **Innovative Problem Solving**.
+- Rapid adoption of **New Technologies** to stay competitive.
+- Extensive experience in **Information Technology (IT) Projects** for successful deliveries.
+- Leveraging **Advanced Technical Knowledge** for robust solutions.
+- Creating **Innovative Solutions** that push the boundaries.
+
+---
+
+# <div align="center" style="text-align: center;">☎️ Contact Me ☎️</div>
 
 <div align="center" style="text-align: center;">
   <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294">
@@ -303,7 +303,7 @@ I extend a warm invitation to get in touch. I'm at your disposal for any inquiri
   </a>
 
   <a href="https://www.instagram.com/age_ntek">
-    <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="Instagram" width="35" height="35" margin="20">
+    <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt "Instagram" width="35" height="35" margin="20">
   </a>
   
   <a href="https://www.facebook.com/profile.php?id=100016576718598&mibextid=ZbWKwL">
@@ -319,5 +319,6 @@ I extend a warm invitation to get in touch. I'm at your disposal for any inquiri
   </a>
 </div>
 
-### 🍀 Thank you for visiting my profile and being a part of my learning journey in the world of technology! 🍀
+### <div align="center" style="text-align: center;">🍀 Thank you for visiting my profile and being part of my learning journey in the world of technology! 🍀</div>
+
 ---
