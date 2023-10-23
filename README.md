@@ -78,7 +78,7 @@ Siendo una **colaboradora apasionada y adaptable**, estoy segura de que puedo ap
 
 ---
 
-## **⭐ Proyectos ⭐**
+# **⭐ Proyectos ⭐**
 
 **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**
 
