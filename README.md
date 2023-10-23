@@ -78,9 +78,7 @@
 
 ¡Hola! Mi nombre es **Macarena** y soy **Desarrolladora Full Stack**. Te invito a explorar mi perfil, donde encontrarás un resumen detallado de mis habilidades técnicas, **proyectos destacados** y competencias en el ámbito tecnológico. Mi enfoque en la **mejora continua**, la creatividad y la **experiencia del usuario** garantizan soluciones de **alto rendimiento**. Espero que disfrutes descubriendo cómo juntos podemos crear algo excepcional. **¡Espero poder trabajar contigo!**
 
-<a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294/" target="_blank">
-    <img src="https://docs.google.com/drawings/d/e/2PACX-1vRNVtUO9Hg9lzIcqti7K_OWc3fhUdlTFwLm58PCu5xt28mTPoLNafJO6LIeA0IYno9s8INIDmtrKBBX/" alt="profile">
-</a>
+![20230219_095731](https://github.com/Age-NteK/Age-NteK/assets/107895191/6b745d12-a73d-45df-b1d1-2898de20f562)
 
 En mi búsqueda de la **excelencia profesional**, destaco por mis habilidades interpersonales que han demostrado ser una pieza clave para el éxito en **proyectos colaborativos**. Mi compromiso con la **comunicación clara y efectiva** ha permitido participar en equipos de manera fluida. 
 
