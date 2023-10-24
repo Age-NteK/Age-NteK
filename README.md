@@ -1,3 +1,181 @@
+![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/a3a2f514-bd9c-4519-b0f6-3bad2fe51825)
+
+<table align="center" style="text-align: center;">
+    <tr>
+        <td>
+            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" alt="git" width="55" height="55"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.hostinger.es/tutoriales/que-es-github" target="_blank" rel="noreferrer">
+                <img src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png" alt="github" width="55" height="55"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://nodejs.org/es/docs" target="_blank" rel="noreferrer">
+                <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="nodejs" width="55" height="55"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="55" height="55"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css3" width="55" height="55"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="55" height="55"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+                <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="55" height="55"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="55" height="55"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://es.redux.js.org/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="55" height="55"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="55" height="55"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" alt="mysql" width="55" height="55"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+                <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png" alt="postgresql" width="55" height="55"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_mongodb_icon_129879.png" alt="mongodb" width="55" height="55"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="55" height="55"/>
+            </a>
+        </td>
+    </tr>
+</table>
+
+Hello! My name is **Macarena**, and I'm a **Full Stack Developer**. I invite you to explore my profile, where you'll find a detailed summary of my technical skills, **highlighted projects**, and expertise in the technology field. My focus on **continuous improvement**, creativity, and **user experience** ensures high-performance solutions. I hope you enjoy discovering how we can create something exceptional together. **I look forward to working with you!**.
+
+![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/c90e5488-a349-46d7-9702-7a6b43e87893)
+
+In my pursuit of **professional excellence**, I stand out for my interpersonal skills, which have proven to be a key element for success in **collaborative projects**. My commitment to **clear and effective communication** has allowed me to work smoothly in teams.
+
+As a passionate and adaptable **collaborator**, I'm confident that I can bring **exceptional value** to any team and project. I'm committed and excited to take on new challenges, and I'm sure that by joining forces, we'll achieve impactful results and **exceed expectations**.
+
+---
+
+# <div align="center" style="text-align: center;">**⚜️ Projects ⚜️**</div>
+
+## **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**
+
+I developed an innovative web application that guides tech enthusiasts in customizing their own computers called **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**. It implements a REST API for future integrations and scalability, using technologies like React, Sequelize, Tailwind CSS, and Express with SQL and PostgreSQL on the backend. It offers a seamless experience with user authentication, a shopping cart, and a secure payment platform. Additionally, it includes search filters, detailed information, and high-quality photos.
+
+![image](https://github.com/Age-NteK/GAMER-GALAXY/assets/107895191/af821063-0f31-444f-a199-4be6a7aebde8)
+
+## **[Food](https://github.com/Age-NteK/FOOD.git)**
+
+The **[Food](https://github.com/Age-NteK/FOOD.git)** recipe platform uses Sequelize to manage data and establish strong relationships. I implemented advanced search methods, intuitive workflows for creating diets and recipes, and maintained data accuracy with updates. I ensured data precision through form validations and efficient content management options. I incorporated a custom error page to enhance the user experience on non-existent routes.
+
+![image](https://github.com/Age-NteK/FOOD/assets/107895191/cd20b38c-97cb-44ba-ad73-dbd4210f00ce)
+
+## **[Maybelline](https://github.com/Age-NteK/MAYBELLYNE.git)**
+
+I developed an exciting beauty application with a detailed product catalog from **[Maybelline](https://github.com/Age-NteK/MAYBELLYNE.git)** for shopping, a functional shopping cart system, secure user authentication through Auth0, and a Mercado Pago payment gateway. It also includes an educational section with product tutorials and beauty tips. I also implemented a REST API for future integrations and scalability.
+
+![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/a89eab4a-519c-494a-8218-d05c092ac1e3)
+
+## **[Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)**
+
+I developed an application to explore and filter **[Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)** characters, with favorite functions and sorting options. I integrated user authentication, using Redux for state management. On the back-end, I configured routes to retrieve data and interactions such as favorites, as well as sorting options, offering a seamless experience.
+
+![image](https://github.com/Age-NteK/RickAndMorty/assets/107895191/f90f8410-69cd-448b-b7fc-afef9b1a42cb)
+
+## **[Countries](https://github.com/Age-NteK/PI-COUNTRIES.git)**
+
+I developed the Countries Application, focusing on user experience. I implemented country search, filtering, and sorting functions to facilitate information retrieval. I established secure login and registration processes and designed routes on the backend. I used Redux to manage states and ensure smooth navigation.
+
+---
+
+# <div align="center" style="text-align: center;">**⚜️ Technical Skills ⚜️**</div>
+
+- **Ongoing Technological Research** to stay up to date.
+- Comprehensive **Requirements Analysis** for precise project execution.
+- Creation of **Web Applications** that meet user needs and expectations.
+- Competence in **Design Patterns** and effective **Data Management**.
+- Delivery of **High-Performance Solutions** for an optimal user experience.
+- Expertise in creating a solid **Software Architecture**.
+- Driven by **Technological Innovation** to stay at the forefront.
+- **Agile Development** to ensure efficient and iterative progress.
+- **Deployment and Hosting** for seamless user access.
+- Prioritization of **User Experience (UX)** for enhanced engagement.
+- Mastery of **Agile Methodologies** for optimized development.
+- Proficiency in leading **Frontend Frameworks** for optimal development.
+- Proficiency in **Efficient Backend Development** techniques.
+- Database Management skills for data-driven applications.
+- Intuitive **User Interface Design** for improved engagement.
+- Data-driven analysis and effective **Data Visualization**.
+- Sharp **Analytical Thinking** and innovative **Problem Solving**.
+- Quick adoption of new technologies to stay competitive.
+- Extensive experience in **Information Technology (IT) Projects** for successful deliveries.
+- Leveraging **Advanced Technical Knowledge** for robust solutions.
+- Creation of **Innovative Solutions** that push boundaries.
+
+---
+
+<table align="center">
+    <tr>
+        <td style="padding-right: 30px;">
+            <a href="mailto:correoaleatorio465@gmail.com">
+                <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="55" height="55">
+            </a>
+        </td>
+        <td style="padding-right: 30px;">
+            <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294">
+                <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="LinkedIn" width="55" height="55">
+            </a>
+        </td>
+        <td style="padding-right: 30px;">
+            <a href="https://www.instagram.com/age_ntek">
+                <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="Instagram" width="55" height="55">
+            </a>
+        </td>
+        <td style="padding-right: 30px;">
+            <a href="https://www.facebook.com/profile.php?id=100016576718598&mibextid=ZbWKwL">
+                <img src="https://cdn.icon-icons.com/icons2/555/poNG/512/facebook_icon-icons.com_53612.png" alt="Facebook" width="55" height="55">
+            </a>
+        </td>
+        <td>
+            <a href="mailto:macarenacastilloruiz@gmail.com">
+                <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="55" height="55">
+            </a>
+        </td>
+    </tr>
+</table>
+
+### <div align="center" style="text-align: center;">☎️ Contact me, and let's explore how I can contribute to your company's success! ☎️</div>
+
+---
 
 ![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/a3a2f514-bd9c-4519-b0f6-3bad2fe51825)
 
@@ -178,185 +356,8 @@ Desarrollé la Aplicación Countries, enfocándome en la experiencia del usuario
 
 ---
 
-![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/a3a2f514-bd9c-4519-b0f6-3bad2fe51825)
-
-<table align="center" style="text-align: center;">
-    <tr>
-        <td>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" alt="git" width="55" height="55"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.hostinger.es/tutoriales/que-es-github" target="_blank" rel="noreferrer">
-                <img src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png" alt="github" width="55" height="55"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://nodejs.org/es/docs" target="_blank" rel="noreferrer">
-                <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="nodejs" width="55" height="55"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="55" height="55"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css3" width="55" height="55"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="55" height="55"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="55" height="55"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="55" height="55"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://es.redux.js.org/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="55" height="55"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="sequelize" width="55" height="55"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" alt="mysql" width="55" height="55"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-                <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_postgres_icon_161286.png" alt="postgresql" width="55" height="55"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_mongodb_icon_129879.png" alt="mongodb" width="55" height="55"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="55" height="55"/>
-            </a>
-        </td>
-    </tr>
-</table>
-
-Hello! My name is **Macarena**, and I'm a **Full Stack Developer**. I invite you to explore my profile, where you'll find a detailed summary of my technical skills, **highlighted projects**, and expertise in the technology field. My focus on **continuous improvement**, creativity, and **user experience** ensures high-performance solutions. I hope you enjoy discovering how we can create something exceptional together. **I look forward to working with you!**.
-
-![image](https://github.com/Age-NteK/Age-NteK/assets/107895191/c90e5488-a349-46d7-9702-7a6b43e87893)
-
-In my pursuit of **professional excellence**, I stand out for my interpersonal skills, which have proven to be a key element for success in **collaborative projects**. My commitment to **clear and effective communication** has allowed me to work smoothly in teams.
-
-As a passionate and adaptable **collaborator**, I'm confident that I can bring **exceptional value** to any team and project. I'm committed and excited to take on new challenges, and I'm sure that by joining forces, we'll achieve impactful results and **exceed expectations**.
-
----
-
-# <div align="center" style="text-align: center;">**⚜️ Projects ⚜️**</div>
-
-## **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**
-
-I developed an innovative web application that guides tech enthusiasts in customizing their own computers called **[Gamer Galaxy](https://github.com/Age-NteK/GAMER-GALAXY.git)**. It implements a REST API for future integrations and scalability, using technologies like React, Sequelize, Tailwind CSS, and Express with SQL and PostgreSQL on the backend. It offers a seamless experience with user authentication, a shopping cart, and a secure payment platform. Additionally, it includes search filters, detailed information, and high-quality photos.
-
-![image](https://github.com/Age-NteK/GAMER-GALAXY/assets/107895191/af821063-0f31-444f-a199-4be6a7aebde8)
-
-## **[Food](https://github.com/Age-NteK/FOOD.git)**
-
-The **[Food](https://github.com/Age-NteK/FOOD.git)** recipe platform uses Sequelize to manage data and establish strong relationships. I implemented advanced search methods, intuitive workflows for creating diets and recipes, and maintained data accuracy with updates. I ensured data precision through form validations and efficient content management options. I incorporated a custom error page to enhance the user experience on non-existent routes.
-
-![image](https://github.com/Age-NteK/FOOD/assets/107895191/cd20b38c-97cb-44ba-ad73-dbd4210f00ce)
-
-## **[Maybelline](https://github.com/Age-NteK/MAYBELLYNE.git)**
-
-I developed an exciting beauty application with a detailed product catalog from **[Maybelline](https://github.com/Age-NteK/MAYBELLYNE.git)** for shopping, a functional shopping cart system, secure user authentication through Auth0, and a Mercado Pago payment gateway. It also includes an educational section with product tutorials and beauty tips. I also implemented a REST API for future integrations and scalability.
-
-![image](https://github.com/Age-NteK/MAYBELLYNE/assets/107895191/a89eab4a-519c-494a-8218-d05c092ac1e3)
-
-## **[Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)**
-
-I developed an application to explore and filter **[Rick and Morty](https://github.com/Age-NteK/RickAndMorty.git)** characters, with favorite functions and sorting options. I integrated user authentication, using Redux for state management. On the back-end, I configured routes to retrieve data and interactions such as favorites, as well as sorting options, offering a seamless experience.
-
-![image](https://github.com/Age-NteK/RickAndMorty/assets/107895191/f90f8410-69cd-448b-b7fc-afef9b1a42cb)
-
-## **[Countries](https://github.com/Age-NteK/PI-COUNTRIES.git)**
-
-I developed the Countries Application, focusing on user experience. I implemented country search, filtering, and sorting functions to facilitate information retrieval. I established secure login and registration processes and designed routes on the backend. I used Redux to manage states and ensure smooth navigation.
-
----
-
-# <div align="center" style="text-align: center;">**⚜️ Technical Skills ⚜️**</div>
-
-- **Ongoing Technological Research** to stay up to date.
-- Comprehensive **Requirements Analysis** for precise project execution.
-- Creation of **Web Applications** that meet user needs and expectations.
-- Competence in **Design Patterns** and effective **Data Management**.
-- Delivery of **High-Performance Solutions** for an optimal user experience.
-- Expertise in creating a solid **Software Architecture**.
-- Driven by **Technological Innovation** to stay at the forefront.
-- **Agile Development** to ensure efficient and iterative progress.
-- **Deployment and Hosting** for seamless user access.
-- Prioritization of **User Experience (UX)** for enhanced engagement.
-- Mastery of **Agile Methodologies** for optimized development.
-- Proficiency in leading **Frontend Frameworks** for optimal development.
-- Proficiency in **Efficient Backend Development** techniques.
-- Database Management skills for data-driven applications.
-- Intuitive **User Interface Design** for improved engagement.
-- Data-driven analysis and effective **Data Visualization**.
-- Sharp **Analytical Thinking** and innovative **Problem Solving**.
-- Quick adoption of new technologies to stay competitive.
-- Extensive experience in **Information Technology (IT) Projects** for successful deliveries.
-- Leveraging **Advanced Technical Knowledge** for robust solutions.
-- Creation of **Innovative Solutions** that push boundaries.
-
----
-
-<table align="center">
-    <tr>
-        <td style="padding-right: 30px;">
-            <a href="mailto:correoaleatorio465@gmail.com">
-                <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="55" height="55">
-            </a>
-        </td>
-        <td style="padding-right: 30px;">
-            <a href="https://www.linkedin.com/in/macarena-sneider-48b4a2294">
-                <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="LinkedIn" width="55" height="55">
-            </a>
-        </td>
-        <td style="padding-right: 30px;">
-            <a href="https://www.instagram.com/age_ntek">
-                <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" alt="Instagram" width="55" height="55">
-            </a>
-        </td>
-        <td style="padding-right: 30px;">
-            <a href="https://www.facebook.com/profile.php?id=100016576718598&mibextid=ZbWKwL">
-                <img src="https://cdn.icon-icons.com/icons2/555/poNG/512/facebook_icon-icons.com_53612.png" alt="Facebook" width="55" height="55">
-            </a>
-        </td>
-        <td>
-            <a href="mailto:macarenacastilloruiz@gmail.com">
-                <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail" width="55" height="55">
-            </a>
-        </td>
-    </tr>
-</table>
-
-### <div align="center" style="text-align: center;">☎️ Contact me, and let's explore how I can contribute to your company's success! ☎️</div>
-
----
-
 ### <div align="center" style="text-align: center;">🍀 Thank you for visiting my profile and being part of my learning journey in the world of technology! 🍀</div>
 
 ---
+
+
