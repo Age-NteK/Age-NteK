@@ -162,7 +162,7 @@ I developed the Countries Application, focusing on user experience. I implemente
         </td>
         <td style="padding-right: 30px;">
             <a href="https://www.facebook.com/profile.php?id=100016576718598&mibextid=ZbWKwL">
-                <img src="https://cdn.icon-icons.com/icons2/555/poNG/512/facebook_icon-icons.com_53612.png" alt="Facebook" width="55" height="55">
+                <img src="https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png" alt="Facebook" width="55" height="55">
             </a>
         </td>
         <td>
